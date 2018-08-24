@@ -2,13 +2,15 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>conversational-ai-club - Conversational AI Club</title>
+  <title>Conversational AI Club</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Conversational AI Club">
   <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//unpkg.com/docsify/lib/themes/vue.css">
-  
-  <script type="text/x-mathjax-config">
+
+  <link rel="stylesheet" href="//unpkg.com/katex/dist/katex.min.css">
+
+  <!-- script type="text/x-mathjax-config">
     MathJax.Hub.Config({
     tex2jax: { 
       inlineMath: [["$","$"],["\\(","\\)"]],
@@ -22,7 +24,7 @@
   </script>
   <script type="text/javascript"
     src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.1/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-  </script>
+  </script -->
 
 </head>
 <body>
@@ -30,13 +32,45 @@
   <script>
     window.$docsify = {
       name: 'conversational-ai-club',
+      // nameLink: 'https://bupt.github.io/conversational-ai-club',
       repo: 'https://github.com/BUPT/conversational-ai-club',
       coverpage: true,
       loadSidebar: true,
+      plugins: [
+        function (hook) {
+          hook.beforeEach(function (content) {
+            return content.replace(/\${1,2}([\s\S]*?)\${1,2}/g, function (m, code) {
+              return katex.renderToString(code)
+            })
+          })
+        },
+        function (hook, vm) {
+					hook.beforeEach(function (html) {
+					if (/githubusercontent\.com/.test(vm.route.file)) {
+						url = vm.route.file
+						.replace('raw.githubusercontent.com', 'github.com')
+						.replace(/\/master/, '/blob/master')
+					} 
+					else {
+						url = 'https://github.com/BUPT/conversational-ai-club/blob/master/docs/' + vm.route.file
+					}
+					var editHtml = '[:memo: Edit on Github](' + url + ')\n'
+					return editHtml 
+						+ '\n\n'
+						+ html
+						+ '\n\n----\n\n';
+					})
+				},
+      ]
     }
   </script>
+  <script src="//unpkg.com/katex/dist/katex.min.js"></script>
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-	<script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-python.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+
 </body>
 </html>
