@@ -1,0 +1,35 @@
+{
+  "name": "conversational-ai-club",
+  "version": "0.0.1",
+  "description": "Conversational AI Club",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "lint": "npm run lint:md",
+    "lint:md": "markdownlint docs/*.md",
+    "serve": "docsify serve docs/",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BUPT/conversational-ai-club.git"
+  },
+  "keywords": [
+    "ChatBot",
+    "Conversational",
+    "AI",
+    "Club"
+  ],
+  "author": "Huan LI <zixia@zixia.net>",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/BUPT/conversational-ai-club/issues"
+  },
+  "homepage": "https://github.com/BUPT/conversational-ai-club#readme",
+  "dependencies": {
+    "docsify-cli": "^4.2.1",
+    "markdownlint-cli": "^0.13.0"
+  }
+}
