@@ -39,7 +39,8 @@
       plugins: [
         function (hook) {
           hook.beforeEach(function (content) {
-            return content.replace(/\${1,2}([\s\S]*?)\${1,2}/g, function (m, code) {
+            return content.replace(/\${1,2}([^$]+?)\${1,2}/g, function (m, code) {
+              console.log('segment:', code)
               return katex.renderToString(code)
             })
           })
