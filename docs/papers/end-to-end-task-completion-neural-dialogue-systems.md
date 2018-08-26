@@ -1,6 +1,6 @@
 # End-to-End Task-Completion Neural Dialogue Systems
 
-| Paper | Table |
+|  |  |
 | :--- | :--- |
 | title | End-to-End Task-Completion Neural Dialogue Systems |
 | author |  Xiujun Li, Yun-Nung Chen, Lihong Li, Jianfeng Gao, Asli Celikyilmaz |
