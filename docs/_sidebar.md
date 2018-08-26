@@ -8,6 +8,7 @@
 
 - Papers List
   - [End-to-End Task-Completion Neural Dialogue Systems, 2018](papers/end-to-end-task-completion-neural-dialogue-systems-2018.md)
+  - [A Network-based End-to-End Trainable Task-oriented Dialogue System, 2017](papers/a-network-based-end-to-end-trainable-task-oriented-dialogue-system-2017.md)
   - [A Neural Conversational Model, 2015](papers/a-neural-conversational-model-2015.md)
   - [Neural Responding Machine for Short-Text Conversation, 2015](papers/neural-responding-machine-for-short-text-conversation-2015.md)
   - [POMDP-Based Statistical Spoken Dialog Systems: A Review, Steve Young, 2013](papers/pomdp-based-statistical-spoken-dialog-systems-a-review-steve-young-2013.md)
