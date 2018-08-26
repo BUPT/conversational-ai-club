@@ -39,6 +39,11 @@
       notFoundPage: true,
       logo: '/_media/logo.jpg',
       auto2top: true,
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        depth: 6
+      },
       plugins: [
         function (hook) {
           hook.beforeEach(function (content) {
