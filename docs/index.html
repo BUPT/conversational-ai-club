@@ -12,7 +12,7 @@
 
   <!-- script type="text/x-mathjax-config">
     MathJax.Hub.Config({
-    tex2jax: { 
+    tex2jax: {
       inlineMath: [["$","$"],["\\(","\\)"]],
       processEscapes: true,
       skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
@@ -31,11 +31,14 @@
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'conversational-ai-club',
-      // nameLink: 'https://bupt.github.io/conversational-ai-club',
+      name: 'Conversational-AI-Club',
+      nameLink: 'https://bupt.github.io/conversational-ai-club',
       repo: 'https://github.com/BUPT/conversational-ai-club',
       coverpage: true,
       loadSidebar: true,
+      notFoundPage: true,
+      logo: '/_media/logo.jpg',
+      auto2top: true,
       plugins: [
         function (hook) {
           hook.beforeEach(function (content) {
@@ -51,12 +54,12 @@
 						url = vm.route.file
 						.replace('raw.githubusercontent.com', 'github.com')
 						.replace(/\/master/, '/blob/master')
-					} 
+					}
 					else {
 						url = 'https://github.com/BUPT/conversational-ai-club/blob/master/docs/' + vm.route.file
 					}
 					var editHtml = '[:memo: Edit on Github](' + url + ')\n'
-					return editHtml 
+					return editHtml
 						+ '\n\n'
 						+ html
 						+ '\n\n----\n\n';
@@ -65,11 +68,16 @@
       ]
     }
   </script>
+  <!-- Latex -->
   <script src="//unpkg.com/katex/dist/katex.min.js"></script>
+
   <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
   <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
   <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
   <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+
+  <!-- Language Highlighting -->
   <script src="//unpkg.com/prismjs/components/prism-python.min.js"></script>
   <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
 
