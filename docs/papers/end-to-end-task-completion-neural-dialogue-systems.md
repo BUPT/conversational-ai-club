@@ -6,6 +6,6 @@
 | author |  Xiujun Li, Yun-Nung Chen, Lihong Li, Jianfeng Gao, Asli Celikyilmaz |
 | date | 2018-2-11 |
 | arxiv | https://arxiv.org/pdf/1703.01008.pdf |
-| github | https://github.com/BUPT/ |
+| github | https://github.com/MiuLab/TC-Bot |
 | paperweekly | https://www.paperweekly.site/papers/607 |
 
