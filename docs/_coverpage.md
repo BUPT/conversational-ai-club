@@ -9,7 +9,7 @@
 * Code first, Paper second: Talk is cheap, show me the code!
 
 [GitHub](https://github.com/BUPT/conversational-ai-club/)
-[Get Started](#intro)
+[Get Started](#conversational-ai)
 
 <!-- background color -->
 ![color](#f0f0f0)

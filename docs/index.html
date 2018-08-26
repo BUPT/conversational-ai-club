@@ -29,15 +29,30 @@
 </head>
 <body>
   <div id="app"></div>
+
+  <!-- Latex -->
+  <script src="//unpkg.com/katex/dist/katex.min.js"></script>
+
+  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+
+  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
+  <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <!-- script src="//unpkg.com/docsify-edit-on-github/index.js"></script -->
+
+  <!-- Language Highlighting -->
+  <script src="//unpkg.com/prismjs/components/prism-python.min.js"></script>
+  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
+
   <script>
     window.$docsify = {
       name: 'Conversational-AI-Club',
-      nameLink: 'https://bupt.github.io/conversational-ai-club',
       repo: 'https://github.com/BUPT/conversational-ai-club',
       coverpage: true,
       loadSidebar: true,
       notFoundPage: true,
       logo: '/_media/logo.jpg',
+      themeColor: '#0072C6',
       auto2top: true,
       search: {
         maxAge: 86400000,
@@ -53,38 +68,12 @@
             })
           })
         },
-        function (hook, vm) {
-					hook.beforeEach(function (html) {
-					if (/githubusercontent\.com/.test(vm.route.file)) {
-						url = vm.route.file
-						.replace('raw.githubusercontent.com', 'github.com')
-						.replace(/\/master/, '/blob/master')
-					}
-					else {
-						url = 'https://github.com/BUPT/conversational-ai-club/blob/master/docs/' + vm.route.file
-					}
-					var editHtml = '[:memo: Edit on Github](' + url + ')\n'
-					return editHtml
-						+ '\n\n'
-						+ html
-						+ '\n\n----\n\n';
-					})
-				},
+        // EditOnGithubPlugin.create(
+        //   'https://github.com/BUPT/conversational-ai-club/blob/master/docs/'
+        // ),
       ]
     }
   </script>
-  <!-- Latex -->
-  <script src="//unpkg.com/katex/dist/katex.min.js"></script>
-
-  <script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
-
-  <script src="//unpkg.com/docsify/lib/plugins/search.min.js"></script>
-  <script src="//unpkg.com/docsify/lib/plugins/emoji.js"></script>
-  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
-
-  <!-- Language Highlighting -->
-  <script src="//unpkg.com/prismjs/components/prism-python.min.js"></script>
-  <script src="//unpkg.com/prismjs/components/prism-bash.min.js"></script>
 
 </body>
 </html>
