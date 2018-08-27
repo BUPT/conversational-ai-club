@@ -9,6 +9,7 @@
 | github | https://github.com/MiuLab/TC-Bot |
 | paperweekly | https://www.paperweekly.site/papers/607 |
 | page | 144 |
+| member | [@zixia](https://github.com/zixia) |
 
 ## See Also
 
