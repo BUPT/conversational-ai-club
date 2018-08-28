@@ -16,3 +16,4 @@
   - [A Neural Network Approach to Context-Sensitive Generation of Conversational Responses, Alessandro Sordoni, 2015](a-neural-network-approach-to-context-sensitive-generation-of-conversational-responses-alessandro-sordoni-2015.md)
   - [A Neural Conversational Model, Oriol Vinyals, 2015]()
   - [Neural Responding Machine for Short-Text Conversation, Lifeng Shang, 2015]()
+  - [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension](papers/qanet-combining-local-convolution-with-global-self-attention-for-reading-comprehension-2018.md)
