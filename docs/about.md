@@ -16,7 +16,7 @@ It gives me a way to enter the Conversational AI world, so I decide to find some
 
 ## History
  
-- [2018-08-26 CAIC第四次活动（执行主席：王艺宁）](https://github.com/BUPT/awesome-chatbot/issues/6)
-- [2018-08-20 CAIC第三次活动（执行主席：朱正源）](https://github.com/BUPT/awesome-chatbot/issues/5)
-- [2018-08-08 CAIC第二次活动（执行主席：张崇宇）](https://github.com/BUPT/awesome-chatbot/issues/7)
-- [2018-08-04 CAIC第一次活动（执行主席：李卓桓）](https://github.com/BUPT/awesome-chatbot/issues/7)
+- [2018-08-26 CAIC第四次活动（轮执主席：王艺宁）](https://github.com/BUPT/awesome-chatbot/issues/6)
+- [2018-08-20 CAIC第三次活动（轮执主席：朱正源）](https://github.com/BUPT/awesome-chatbot/issues/5)
+- [2018-08-08 CAIC第二次活动（轮执主席：张崇宇）](https://github.com/BUPT/awesome-chatbot/issues/7)
+- [2018-08-04 CAIC第一次活动（轮执主席：李卓桓）](https://github.com/BUPT/awesome-chatbot/issues/7)
