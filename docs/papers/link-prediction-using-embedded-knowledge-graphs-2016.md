@@ -7,6 +7,6 @@
 | year | 2016-11-14 |
 | arxiv |   https://arxiv.org/abs/1611.04642 |
 | github |  None |
-| paperweekly |  https://www.paperweekly.site/papers/1901|
+| paperweekly |  None |
 | page | 14 |
 | member | [@zzy824](https://github.com/824zzy) |
