@@ -9,4 +9,4 @@
 | github |  https://github.com/facebookresearch/DrQA |
 | paperweekly |   |
 | page | 10 |
-| member | [@Turing](https://github.com/TuringLee) |
+| member | [@TuringLee](https://github.com/TuringLee) |
