@@ -13,3 +13,4 @@
   - [A Network-based End-to-End Trainable Task-oriented Dialogue System, 2017](papers/a-network-based-end-to-end-trainable-task-oriented-dialogue-system-2017.md)
   - [Link Prediction using Embedded Knowledge Graphs](papers/link-prediction-using-embedded-knowledge-graphs-2016.md)
   - [An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge,2017](papers/an-end-to-end-model-for-question-answering-over-knowledge-base-with-cross-attention-combining-global-knowledge.md)
+  - [The Natural Language Decathlon: Multitask Learning as Question Answering, 2017](papers/the-natural-language-decathlon-multitask-learning-as-question-answering-2018.md)
