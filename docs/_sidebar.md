@@ -15,4 +15,3 @@
   - [An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge,2017](papers/an-end-to-end-model-for-question-answering-over-knowledge-base-with-cross-attention-combining-global-knowledge.md)
   - [The Natural Language Decathlon: Multitask Learning as Question Answering, 2017](papers/the-natural-language-decathlon-multitask-learning-as-question-answering-2018.md)
   - [Reading Wikipedia to Answer Open-Domain Questions](papers/reading-wikipedia-to-answer-open-domain-questions-2017.md)
-  - [Distributed Representations of Words and Phrases and their Compositionality](papers/distributed-representations-of-words-and-phrases-2013.md)
