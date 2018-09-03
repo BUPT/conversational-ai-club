@@ -11,6 +11,11 @@
 | page | 144 |
 | member | [@zixia](https://github.com/zixia) |
 
+## History
+
+* @zixia, Poster, [CAIC #6](https://github.com/BUPT/awesome-chatbot/issues/10)
+* @zixia, Poster, [CAIC #5](https://github.com/BUPT/awesome-chatbot/issues/9)
+
 ## See Also
 
 - [DSTC7: End-to-End Conversation Modeling: Moving beyond Chitchat](https://github.com/DSTC-MSR-NLP/DSTC7-End-to-End-Conversation-Modeling/tree/master/data_extraction#FAQ)
