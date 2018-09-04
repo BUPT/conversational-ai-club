@@ -16,3 +16,4 @@
   - [The Natural Language Decathlon: Multitask Learning as Question Answering, 2017](papers/the-natural-language-decathlon-multitask-learning-as-question-answering-2018.md)
   - [Reading Wikipedia to Answer Open-Domain Questions](papers/reading-wikipedia-to-answer-open-domain-questions-2017.md)
   - [R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS](papers/r-net-machine-reading-comprehension-with-self-matching-networks-2017.md)
+  - [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER](pagers/machine-comprehension-using-match-lstm-and-answer-pointer-2016.md)
