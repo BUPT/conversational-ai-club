@@ -21,7 +21,7 @@
     - [Reading Wikipedia to Answer Open-Domain Questions, 2017](papers/reading-wikipedia-to-answer-open-domain-questions-2017.md)
     - [Distributed Representations of Words and Phrases and their Compositionality, 2013](papers/distributed-representations-of-words-and-phrases-2013.md)
     - [R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS](papers/r-net-machine-reading-comprehension-with-self-matching-networks-2017.md)
-  
+    - [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER](pagers/machine-comprehension-using-match-lstm-and-answer-pointer-2016.md)
   - 4.Task-Oriented Dialogues
     - [A Network-based End-to-End Trainable Task-oriented Dialogue System, 2017](papers/a-network-based-end-to-end-trainable-task-oriented-dialogue-system-2017.md)
   
@@ -29,11 +29,4 @@
     - [A Diversity-Promoting Objective Function for Neural Conversation Models, 2016](papers/a-diversity-promoting-objective-function-for-neural-conversational-models-2016.md)
     - [End-to-End Task-Completion Neural Dialogue Systems, 2018](papers/end-to-end-task-completion-neural-dialogue-systems-2018.md) 
 
-
-
-
-
-  
-
-  
   
