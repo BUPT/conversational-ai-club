@@ -29,4 +29,7 @@
     - [A Diversity-Promoting Objective Function for Neural Conversation Models, 2016](papers/a-diversity-promoting-objective-function-for-neural-conversational-models-2016.md)
     - [End-to-End Task-Completion Neural Dialogue Systems, 2018](papers/end-to-end-task-completion-neural-dialogue-systems-2018.md) 
 
+  - 6 classical paper
+    - [Attention Is All You Need,2017]([papers/attention-is-all-you-need-2017.md])
+
   
