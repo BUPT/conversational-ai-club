@@ -16,7 +16,7 @@
     - [The Natural Language Decathlon: Multitask Learning as Question Answering, 2017](papers/the-natural-language-decathlon-multitask-learning-as-question-answering-2018.md)
     - [An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge,2017](papers/an-end-to-end-model-for-question-answering-over-knowledge-base-with-cross-attention-combining-global-knowledge.md)
     - [Semantic Parsing on Freebase from Question-Answer Pairs](papers/semantic-parsing-on-freebase-from-question-answer-pairs-2013.md)
-    - [Information Extraction over Structured Data:Question Answering with Freebase](papers/information-extraction-over-structured-data:question-answering-with-freebase-2014.md)
+    - [Information Extraction over Structured Data:Question Answering with Freebase](papers/information-extraction-over-structured-data-question-answering-with-freebase-2014.md)
   
   - 3.Machine Reading Comprehension
     - [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension, 2018](papers/qanet-combining-local-convolution-with-global-self-attention-for-reading-comprehension-2018.md)
