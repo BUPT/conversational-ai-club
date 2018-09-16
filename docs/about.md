@@ -2,6 +2,12 @@
 
 CAIC(Conversational AI Club) is a open study group for ChatBot builders.
 
+自从上个世纪计算机被发明以来，它们最擅长处理的是电子表格或数据库这样的结构化数据。但是，现实世界中大量的信息都是非结构化的，比如我们人类是通过语言交流，而非表格。这就给计算机处理带来了极大的挑战。如何才能够让计算机理解非结构化的自然语言，并且能够对其中的信息进行正确的处理呢？
+
+聊天机器人就是专门来解决这个问题的。它们基于会话人工智能（Conversational AI），专注于让计算机理解和处理人类的语言，进而在未来商业应用中，替代现有的电脑界面，成为人机交互最自然的新渠道。
+
+会话人工智能，将推动我们从过去的有界面，无智能时代，进入到未来的无界面，有智能时代。它们不但能和人类进行语言交流，而且还会自主学习新知识。未来所有硬件都会和我们对话。
+
 ## Motivation
 
 I'll start my Ph.D program on this September to study how to build ChatBot with the latest machine learning algrithms.
