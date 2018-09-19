@@ -24,6 +24,8 @@
     - [Distributed Representations of Words and Phrases and their Compositionality, 2013](papers/distributed-representations-of-words-and-phrases-2013.md)
     - [R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS](papers/r-net-machine-reading-comprehension-with-self-matching-networks-2017.md)
     - [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER](papers/machine-comprehension-using-match-lstm-and-answer-pointer-2016.md)
+    - [context2vec : Learning Generic Context Embedding with Bidirectional LSTM](papers/context2vec-learning-generic-context-embedding-with-bidirectional-LSTM.md)
+    
   - 4.Task-Oriented Dialogues
     - [A Network-based End-to-End Trainable Task-oriented Dialogue System, 2017](papers/a-network-based-end-to-end-trainable-task-oriented-dialogue-system-2017.md)
   
