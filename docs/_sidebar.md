@@ -17,6 +17,8 @@
     - [An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge,2017](papers/an-end-to-end-model-for-question-answering-over-knowledge-base-with-cross-attention-combining-global-knowledge.md)
     - [Semantic Parsing on Freebase from Question-Answer Pairs](papers/semantic-parsing-on-freebase-from-question-answer-pairs-2013.md)
     - [Information Extraction over Structured Data:Question Answering with Freebase](papers/information-extraction-over-structured-data-question-answering-with-freebase-2014.md)
+    - [Question Answering with Subgraph Embeddings](papers/question-answering-with-subgraph-embeddings-2014.md)
+    - [Question Answering over Freebase with Multi-Column Convolutional Neural Networks](papers/question-answering-over-freebase-with-multi-column-convolutional-neural-networks-2015.md)
   
   - 3.Machine Reading Comprehension
     - [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension, 2018](papers/qanet-combining-local-convolution-with-global-self-attention-for-reading-comprehension-2018.md)
