@@ -38,6 +38,7 @@
 
   - 6.Visual Question Answering
     - [Visual Question Answering: Datasets, Algorithms, and Future Challenges](papers/visual-question-answering-2016.md)
+    - [Dual Attention Network for Multimodal Reasoning and Matching](papers/dual_attention_network_for_multimodal_reasoning_and_matching.md)
   - 7.classical paper
     - [Attention Is All You Need,2017]([papers/attention-is-all-you-need-2017.md])
 
