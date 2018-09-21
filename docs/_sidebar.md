@@ -19,6 +19,7 @@
     - [Information Extraction over Structured Data:Question Answering with Freebase](papers/information-extraction-over-structured-data-question-answering-with-freebase-2014.md)
     - [Question Answering with Subgraph Embeddings](papers/question-answering-with-subgraph-embeddings-2014.md)
     - [Question Answering over Freebase with Multi-Column Convolutional Neural Networks](papers/question-answering-over-freebase-with-multi-column-convolutional-neural-networks-2015.md)
+    - [Improving question answering by commonsense-based pre-training](papers/improving-question-answering-by-commonsense-based-pre-training-2018.md)
   
   - 3.Machine Reading Comprehension
     - [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension, 2018](papers/qanet-combining-local-convolution-with-global-self-attention-for-reading-comprehension-2018.md)
