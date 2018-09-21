@@ -23,14 +23,15 @@ $$
 
 ## 各大主题负责人员
 * KBQA
-    * 钱胜杰、王艺宁
+    * 钱胜杰[@initc]
+    * 王艺宁
 * MRC
     * 李童俊
 * Task-oriented
     * 赵文俊
     * 张崇宇
 *  Fully data-driven
-    *  李卓桓
+    * 李卓桓
 * VQA
     * 陈光、朱正源
 
