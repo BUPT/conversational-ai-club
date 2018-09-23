@@ -43,5 +43,6 @@
     - [Dual Attention Network for Multimodal Reasoning and Matching](papers/dual_attention_network_for_multimodal_reasoning_and_matching.md)
   - 7.classical paper
     - [Attention Is All You Need,2017]([papers/attention-is-all-you-need-2017.md])
+    - [GloVe: Global Vectors for Word Representation,2014]([papers/glove-global-vectors-for-word-representation-2014.md])
 
   
