@@ -36,5 +36,6 @@
     - [Visual Question Answering: Datasets, Algorithms, and Future Challenges](papers/visual-question-answering-2016.md)
   - 7.classical paper
     - [Attention Is All You Need,2017]([papers/attention-is-all-you-need-2017.md])
+    - [GloVe: Global Vectors for Word Representation,2014]([papers/glove-global-vectors-for-word-representation-2014.md])
 
   
