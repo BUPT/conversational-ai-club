@@ -15,10 +15,10 @@
     - [Link Prediction using Embedded Knowledge Graphs, 2016](papers/link-prediction-using-embedded-knowledge-graphs-2016.md)  
     - [The Natural Language Decathlon: Multitask Learning as Question Answering, 2017](papers/the-natural-language-decathlon-multitask-learning-as-question-answering-2018.md)
     - [An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge,2017](papers/an-end-to-end-model-for-question-answering-over-knowledge-base-with-cross-attention-combining-global-knowledge.md)
-    - [Semantic Parsing on Freebase from Question-Answer Pairs](papers/semantic-parsing-on-freebase-from-question-answer-pairs-2013.md)
-    - [Information Extraction over Structured Data:Question Answering with Freebase](papers/information-extraction-over-structured-data-question-answering-with-freebase-2014.md)
-    - [Question Answering with Subgraph Embeddings](papers/question-answering-with-subgraph-embeddings-2014.md)
-    - [Question Answering over Freebase with Multi-Column Convolutional Neural Networks](papers/question-answering-over-freebase-with-multi-column-convolutional-neural-networks-2015.md)
+    - [Semantic Parsing on Freebase from Question-Answer Pairs，2013](papers/semantic-parsing-on-freebase-from-question-answer-pairs-2013.md)
+    - [Information Extraction over Structured Data:Question Answering with Freebase，2014](papers/information-extraction-over-structured-data-question-answering-with-freebase-2014.md)
+    - [Question Answering with Subgraph Embeddings，2014](papers/question-answering-with-subgraph-embeddings-2014.md)
+    - [Question Answering over Freebase with Multi-Column Convolutional Neural Networks，2015](papers/question-answering-over-freebase-with-multi-column-convolutional-neural-networks-2015.md)
     - [Improving question answering by commonsense-based pre-training](papers/improving-question-answering-by-commonsense-based-pre-training-2018.md)
   
   - 3.Machine Reading Comprehension
@@ -43,6 +43,6 @@
     - [Dual Attention Network for Multimodal Reasoning and Matching](papers/dual_attention_network_for_multimodal_reasoning_and_matching.md)
   - 7.classical paper
     - [Attention Is All You Need,2017]([papers/attention-is-all-you-need-2017.md])
-    - [GloVe: Global Vectors for Word Representation,2014]([papers/glove-global-vectors-for-word-representation-2014.md])
+    - [GloVe: Global Vectors for Word Representation,2014](papers/glove-global-vectors-for-word-representation-2014.md)
 
   
