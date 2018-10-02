@@ -20,8 +20,15 @@ It's a 175 pages slide in very clear structure with all of the state-of-the-art 
 
 It gives me a way to enter the Conversational AI world, so I decide to find some friends like me who really love chatbot and want to build one, to study Conversitional AI together.
 
+## Join Us
+
+You are welcome to join us if you can meet the CAIC requirements.
+
+Please read and follow the [NewComers Manual](https://github.com/BUPT/awesome-chatbot/wiki/Newcomer-Manual) and then you will be able to getting started!
+
 ## History
- 
+
+- [Read More ...](https://github.com/BUPT/awesome-chatbot/issues/)
 - [2018-08-26 CAIC第四次活动（轮执主席：王艺宁）](https://github.com/BUPT/awesome-chatbot/issues/6)
 - [2018-08-20 CAIC第三次活动（轮执主席：朱正源）](https://github.com/BUPT/awesome-chatbot/issues/5)
 - [2018-08-08 CAIC第二次活动（轮执主席：张崇宇）](https://github.com/BUPT/awesome-chatbot/issues/7)
