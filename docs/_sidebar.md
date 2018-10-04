@@ -44,5 +44,6 @@
   - 7.classical paper
     - [Attention Is All You Need,2017]([papers/attention-is-all-you-need-2017.md])
     - [GloVe: Global Vectors for Word Representation,2014](papers/glove-global-vectors-for-word-representation-2014.md)
+    - [Auto Encoding Variational Bayes,2014](papers/Auto-Encoding-Variational-Bayes.md)
 
   

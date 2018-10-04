@@ -25,13 +25,16 @@ $$
 * KBQA
     * 钱胜杰[@initc]
     * 王艺宁
+    * 张崇宇
 * MRC
     * 李童俊
 * Task-oriented
     * 赵文俊
-    * 张崇宇
 *  Fully data-driven
     * 李卓桓
 * VQA
-    * 陈光、朱正源
+    * 陈光
+    * 徐子彭
+    * 朱正源
+    
 
