@@ -42,6 +42,7 @@
     - [Visual Question Answering: Datasets, Algorithms, and Future Challenges](papers/visual-question-answering-2016.md)
     - [Object-Difference Attention: A Simple Relational Attention for Visual Question Answering](papers/object-difference-attention-a-simple-relational-attention-for-VQA.md)
     - [Dual Attention Network for Multimodal Reasoning and Matching](papers/dual_attention_network_for_multimodal_reasoning_and_matching.md)
+    - [Adversarial Cross-Modal Retrieval](papers/adversarial_cross-modal_Retrieval.md)
   - 7.classical paper
     - [Attention Is All You Need,2017]([papers/attention-is-all-you-need-2017.md])
     - [GloVe: Global Vectors for Word Representation,2014](papers/glove-global-vectors-for-word-representation-2014.md)
