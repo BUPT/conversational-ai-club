@@ -50,5 +50,5 @@
     - [Auto Encoding Variational Bayes,2014](papers/Auto-Encoding-Variational-Bayes.md)
     - [A Simple But Tough-to-Beat Baseline for Sentence embeddings,2017](papers/a-simple-but-tough-to-beat-baseline-for-sentence-embeddings-2017.md)
 
-  — 8.embeding technique
+  - 8.embeding technique
     - [Deep contextualized word representations,2018]([papers/ELMo-Deep-contextualized-word-representations-2018.md])
