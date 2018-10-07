@@ -1,4 +1,4 @@
-# Hello Test
+<!-- # Hello Test
 
 $$
 f(x) = \int_{-\infty}^\infty
@@ -19,4 +19,22 @@ $$
 9. 表示$N_{\mathbb{S}}$的基数
 11. $h_{p_i}$
 12. 和$h_{p_{i+1}}$ : 从encoder中获取的
-13. 代表Agent两轮连续对话$p_i$和$p_{i+1}$的表示。
+13. 代表Agent两轮连续对话$p_i$和$p_{i+1}$的表示。 -->
+
+## 各大主题负责人员
+* KBQA
+    * 钱胜杰[@initc]
+    * 王艺宁
+    * 张崇宇
+* MRC
+    * 李童俊
+* Task-oriented
+    * 赵文俊
+*  Fully data-driven
+    * 李卓桓
+* VQA
+    * 陈光
+    * 徐子彭
+    * 朱正源
+    
+

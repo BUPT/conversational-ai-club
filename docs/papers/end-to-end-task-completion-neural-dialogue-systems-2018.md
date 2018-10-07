@@ -13,6 +13,7 @@
 
 ## History
 
+* @zixia, Poster, [CAIC #8](https://github.com/BUPT/awesome-chatbot/issues/16)
 * @zixia, Poster, [CAIC #7](https://github.com/BUPT/awesome-chatbot/issues/13)
 * @zixia, Poster, [CAIC #6](https://github.com/BUPT/awesome-chatbot/issues/10)
 * @zixia, Poster, [CAIC #5](https://github.com/BUPT/awesome-chatbot/issues/9)
