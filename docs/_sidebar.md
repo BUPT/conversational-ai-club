@@ -21,7 +21,7 @@
     - [Question Answering over Freebase with Multi-Column Convolutional Neural Networks，2015](papers/question-answering-over-freebase-with-multi-column-convolutional-neural-networks-2015.md)
     - [Improving question answering by commonsense-based pre-training](papers/improving-question-answering-by-commonsense-based-pre-training-2018.md)
     - [Large-scale Simple Question Answering with Memory Network](papers/large-scale-simple-question-answering-with-memory-network-2015.md)
-    - [CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases,2016](papers/CFO-Conditional-Focused-Neural-Question-Answering-with-Large-scale-Knowledge-Bases-2016.md)
+    - [CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases,2016](papers/cfo-conditional-focused-neural-question-answering-with-large-scale-knowledge-bases-2016.md)
   
   - 3.Machine Reading Comprehension
     - [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension, 2018](papers/qanet-combining-local-convolution-with-global-self-attention-for-reading-comprehension-2018.md)
@@ -47,9 +47,9 @@
   - 7.classical paper
     - [Attention Is All You Need,2017](papers/attention-is-all-you-need-2017.md)
     - [GloVe: Global Vectors for Word Representation,2014](papers/glove-global-vectors-for-word-representation-2014.md)
-    - [Auto Encoding Variational Bayes,2014](papers/Auto-Encoding-Variational-Bayes-2014.md)
+    - [Auto Encoding Variational Bayes,2014](papers/auto-encoding-variational-bayes-2014.md)
     - [A Simple But Tough-to-Beat Baseline for Sentence embeddings,2017](papers/a-simple-but-tough-to-beat-baseline-for-sentence-embeddings-2017.md)
 
   - 8.embeding technique
-    - [ELMo: Deep contextualized word representations,2018](papers/ELMo-Deep-contextualized-word-representations-2018.md)
+    - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2018.md)
 
