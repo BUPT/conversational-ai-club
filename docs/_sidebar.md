@@ -20,6 +20,8 @@
     - [Question Answering with Subgraph Embeddings，2014](papers/question-answering-with-subgraph-embeddings-2014.md)
     - [Question Answering over Freebase with Multi-Column Convolutional Neural Networks，2015](papers/question-answering-over-freebase-with-multi-column-convolutional-neural-networks-2015.md)
     - [Improving question answering by commonsense-based pre-training](papers/improving-question-answering-by-commonsense-based-pre-training-2018.md)
+    - [Large-scale Simple Question Answering with Memory Network](papers/large-scale-simple-question-answering-with-memory-network-2015.md)
+    - [CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases,2016](papers/CFO:Conditional-Focused-Neural-Question-Answering-with-Large-scale-Knowledge-Bases-2016.md)
   
   - 3.Machine Reading Comprehension
     - [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension, 2018](papers/qanet-combining-local-convolution-with-global-self-attention-for-reading-comprehension-2018.md)
@@ -41,10 +43,14 @@
     - [Visual Question Answering: Datasets, Algorithms, and Future Challenges](papers/visual-question-answering-2016.md)
     - [Object-Difference Attention: A Simple Relational Attention for Visual Question Answering](papers/object-difference-attention-a-simple-relational-attention-for-VQA.md)
     - [Dual Attention Network for Multimodal Reasoning and Matching](papers/dual_attention_network_for_multimodal_reasoning_and_matching.md)
-    - [Adversarial Cross-Modal Retrieval](papers/adversarial_cross-modal_Retrieval-2017.md)
+<<<<<<< HEAD
+=======
+
+>>>>>>> 61b46cd01f57ca89d56bdb8d7079bb21dc9ebda7
   - 7.classical paper
     - [Attention Is All You Need,2017]([papers/attention-is-all-you-need-2017.md])
     - [GloVe: Global Vectors for Word Representation,2014](papers/glove-global-vectors-for-word-representation-2014.md)
     - [Auto Encoding Variational Bayes,2014](papers/Auto-Encoding-Variational-Bayes.md)
+    - [A Simple But Tough-to-Beat Baseline for Sentence embeddings,2017](papers/a-simple-but-tough-to-beat-baseline-for-sentence-embeddings-2017.md)
 
   
