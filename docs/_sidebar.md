@@ -34,7 +34,9 @@
 
   - 6.Visual Question Answering
     - [Visual Question Answering: Datasets, Algorithms, and Future Challenges](papers/visual-question-answering-2016.md)
+  
   - 7.classical paper
     - [Attention Is All You Need,2017]([papers/attention-is-all-you-need-2017.md])
 
-  
+  — 8.embeding technique
+    - [Deep contextualized word representations,2018]([papers/ELMo-Deep-contextualized-word-representations-2018.md])
