@@ -9,4 +9,4 @@
 | github |   https://github.com/harvardnlp/annotated-transformer|
 | paperweekly |https://www.paperweekly.site/papers/224  |
 | page | 15 |
-| member | [@petercg96](https://github.com/petercg96) |
+| member | [@cgpeter96](https://github.com/petercg96) |
