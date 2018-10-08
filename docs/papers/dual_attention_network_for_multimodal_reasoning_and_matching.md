@@ -9,4 +9,4 @@
 | github |  https://github.com/kelelexu/pytorch-vqa-dan |
 | paperweekly |None |
 | page | 15 |
-| member | [@petercg96](https://github.com/petercg96) |
+| member | [@cgpeter96](https://github.com/petercg96) |
