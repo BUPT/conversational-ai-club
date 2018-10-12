@@ -5,7 +5,7 @@
 | title | A Simple But Tough-to-Beat Baseline for Sentence embeddings |
 | author | Sanjeev Arora, Yingyu Liang, Tengyu Ma |
 | year | 2017 |
-| arxiv |   None |
+| paper |   None |
 | pdf | https://openreview.net/pdf?id=SyK00v5xx |
 | github |  https://github.com/PrincetonML/SIF |
 | paperweekly | None |
