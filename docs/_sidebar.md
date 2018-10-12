@@ -53,3 +53,5 @@
   - 8.embeding technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
 
+  - 9. Misc
+    - [Sequence to Sequence Learning with Neural Networks](papers/sequence-to-sequence-searning-with-neural-networks-2014.md)
