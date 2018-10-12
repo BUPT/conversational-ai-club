@@ -23,7 +23,7 @@
     - [Large-scale Simple Question Answering with Memory Network](papers/large-scale-simple-question-answering-with-memory-network-2015.md)
     - [CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases,2016](papers/cfo-conditional-focused-neural-question-answering-with-large-scale-knowledge-bases-2015.md)
     - [Natural Language Inference with Hierarchical BiLSTM Max Pooling Architecture,2018](papers/natural-language-inference-with-hierarchical-bilstm-max-pooling-architecture-2018.md)
-  
+
   - 3.Machine Reading Comprehension
     - [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension, 2018](papers/qanet-combining-local-convolution-with-global-self-attention-for-reading-comprehension-2018.md)
     - [Reading Wikipedia to Answer Open-Domain Questions, 2017](papers/reading-wikipedia-to-answer-open-domain-questions-2017.md)
@@ -45,13 +45,8 @@
     - [Object-Difference Attention: A Simple Relational Attention for Visual Question Answering](papers/object-difference-attention-a-simple-relational-attention-for-VQA.md)
     - [Dual Attention Network for Multimodal Reasoning and Matching](papers/dual_attention_network_for_multimodal_reasoning_and_matching.md)
     - [Adversarial cross-modal retrieval](papers/adversarial_cross-modal_Retrieval-2017.md)
-  - 7.classical paper
-<<<<<<< HEAD
-    - [Attention Is All You Need,2017]([papers/attention-is-all-you-need-2017.md])
-    - [Glove:Global Vectors for Word Representation,2014]([papers/glove-global-vectors-for-word-representation-2014.md])
- 
     
-=======
+  - 7.classical paper
     - [Attention Is All You Need,2017](papers/attention-is-all-you-need-2017.md)
     - [GloVe: Global Vectors for Word Representation,2014](papers/glove-global-vectors-for-word-representation-2014.md)
     - [Auto Encoding Variational Bayes,2014](papers/auto-encoding-variational-bayes-2013.md)
@@ -59,5 +54,7 @@
 
   - 8.embeding technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
->>>>>>> 23d93ca327209289394762abb577343aad44555a
+
+=======
+
 
