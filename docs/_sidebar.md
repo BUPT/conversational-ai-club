@@ -22,6 +22,7 @@
     - [Improving question answering by commonsense-based pre-training](papers/improving-question-answering-by-commonsense-based-pre-training-2018.md)
     - [Large-scale Simple Question Answering with Memory Network](papers/large-scale-simple-question-answering-with-memory-network-2015.md)
     - [CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases,2016](papers/cfo-conditional-focused-neural-question-answering-with-large-scale-knowledge-bases-2015.md)
+    - [DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning](papers/deeppath-a-reinforcement-learning-method-for-knowledge-graph-reasoning-2018.md)
   
   - 3.Machine Reading Comprehension
     - [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension, 2018](papers/qanet-combining-local-convolution-with-global-self-attention-for-reading-comprehension-2018.md)
