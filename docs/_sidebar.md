@@ -25,6 +25,7 @@
     - [Semantic Parsing via Staged Query Graph Generation:Question Answering with Knowledge Base,2015](papers/semantic-parsing-via-staged-query-graph-generation-question-answering-with-knowledge-base-2015.md)
     - [DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning](papers/deeppath-a-reinforcement-learning-method-for-knowledge-graph-reasoning-2018.md)
     - [Character-Level Question Answering with Attention](papers/character-level-question-answering-with-attention.md)
+    - [Natural Language Inference with Hierarchical BiLSTM Max Pooling Architecture](papers/natural-language-inference-with-hierarchical-bilstm-max-pooling-architecture-2018.md)
     
   - 3.Machine Reading Comprehension
     - [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension, 2018](papers/qanet-combining-local-convolution-with-global-self-attention-for-reading-comprehension-2018.md)
