@@ -6,7 +6,7 @@
 | author | Yanchao Hao, Yuanzhe Zhang, Kang Liu, Shizhu He, Zhanyi Liu, Hua Wu and Jun Zhao |
 | year | 2017 |
 | pdf | http://www.nlpr.ia.ac.cn/cip/~liukang/liukangPageFile/ACL2017-Hao.pdf |
-| arxiv |  None |
+| paper |  None |
 | github |  None |
 | paperweekly |  None |
 | page | 11 |

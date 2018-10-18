@@ -5,7 +5,7 @@
 | title | The Natural Language Decathlon: Multitask Learning as Question Answering |
 | author |  Bryan McCann, Nitish Shirish Keskar, Caiming Xiong, Richard Socher |
 | year | 2018 |
-| arxiv | https://arxiv.org/pdf/1806.08730.pdf |
+| paper | https://arxiv.org/pdf/1806.08730.pdf |
 | github | https://github.com/salesforce/decaNLP |
 | paperweekly |  |
 | page | 23 |
