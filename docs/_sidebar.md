@@ -49,5 +49,6 @@
     - [GloVe: Global Vectors for Word Representation,2014](papers/glove-global-vectors-for-word-representation-2014.md)
     - [Auto Encoding Variational Bayes,2014](papers/Auto-Encoding-Variational-Bayes.md)
     - [A Simple But Tough-to-Beat Baseline for Sentence embeddings,2017](papers/a-simple-but-tough-to-beat-baseline-for-sentence-embeddings-2017.md)
+    - [Convolutional Sequence to Sequence Learning,2017](papers/convolutional-sequence-to-sequence-learning-2017.md)    
 
   
