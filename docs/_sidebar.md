@@ -59,6 +59,7 @@
     - [A Simple But Tough-to-Beat Baseline for Sentence embeddings,2017](papers/a-simple-but-tough-to-beat-baseline-for-sentence-embeddings-2017.md)
     - [Sequence to Sequence Learning with Neural Networks](papers/sequence-to-sequence-searning-with-neural-networks-2014.md)
     - [Dynamic Routing Between Capsules](papers/dynamic-routing-between-capsules-2017.md)
+    - [Convolutional Sequence to Sequence Learning,2017](papers/convolutional-sequence-to-sequence-learning-2017.md) 
 
   - 8.embeding technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
