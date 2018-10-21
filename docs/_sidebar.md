@@ -39,6 +39,7 @@
     - [A Diversity-Promoting Objective Function for Neural Conversation Models, 2016](papers/a-diversity-promoting-objective-function-for-neural-conversational-models-2016.md)
     - [End-to-End Task-Completion Neural Dialogue Systems, 2018](papers/end-to-end-task-completion-neural-dialogue-systems-2018.md) 
     - [Neural Responding Machine for Short-Text Conversation, 2015](papers/neural-responding-machine-for-short-text-conversation-2015.md)
+    - [A Knowledge-Grounded Neural Conversation Model, 2017](a-knowledge-grounded-neural-conversation-model-2017.md)
 
   - 6.Visual Question Answering
     - [Visual Question Answering: Datasets, Algorithms, and Future Challenges](papers/visual-question-answering-2016.md)
