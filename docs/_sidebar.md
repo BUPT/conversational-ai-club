@@ -66,4 +66,4 @@
     - [Skip-Thought Vectors,2015](papers/skip-thought-vectors-2015.md)
 
   - 9. Knowledge Graph
-    - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks,2018](papers/graph2seq:-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
+    - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks,2018](papers/graph2seq-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
