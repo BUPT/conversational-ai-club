@@ -65,7 +65,7 @@
   - 8.embeding technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
     - [Skip-Thought Vectors,2015](papers/skip-thought-vectors-2015.md)
-    - [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](papers/glove-global-vectors-for-word-representation-2014.md)
+    - [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](papers/glomo-unsupervisedly-learned-relational-graphs-as-transferable-representations.md)
 
   - 9. Knowledge Graph
     - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks,2018](papers/graph2seq-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
