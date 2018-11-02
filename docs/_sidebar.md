@@ -61,3 +61,4 @@
   - 8.embeding technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
     - [Skip-Thought Vectors,2015](papers/skip-thought-vectors-2015.md)
+    - [Character-Level Language Modeling with Deeper Self-Attention,2018](papers/character-level-language-modeling-with-deeper-self-attention-2018.md)
