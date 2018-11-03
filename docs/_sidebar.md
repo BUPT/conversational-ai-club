@@ -39,8 +39,9 @@
 
   - 4.Task-Oriented Dialogues
     - [A Network-based End-to-End Trainable Task-oriented Dialogue System, 2017](papers/a-network-based-end-to-end-trainable-task-oriented-dialogue-system-2017.md)
+    - [Slot-Gated Modeling for Joint Slot Filling and Intent Prediction, 2018](/papers/slot-gated-modeling-for-joint-slot-filling-and-intent-prediction-2018.md)
     - [Neural Belief Tracker: Data-Driven Dialogue State Tracking, 2017](papers/neural-belief-tracker-data-driven-dialogue-state-tracking-2017.md)
-  
+
   - 5.Fully data-driven conversation models
     - [A Diversity-Promoting Objective Function for Neural Conversation Models, 2016](papers/a-diversity-promoting-objective-function-for-neural-conversational-models-2016.md)
     - [End-to-End Task-Completion Neural Dialogue Systems, 2018](papers/end-to-end-task-completion-neural-dialogue-systems-2018.md) 
