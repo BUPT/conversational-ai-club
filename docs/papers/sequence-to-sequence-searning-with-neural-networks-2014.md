@@ -13,6 +13,7 @@
 
 ## History
 
+- [CAIC #10](https://github.com/BUPT/awesome-chatbot/issues/24)
 
 ## See Also
 

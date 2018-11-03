@@ -35,8 +35,8 @@
     - [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER](papers/machine-comprehension-using-match-lstm-and-answer-pointer-2016.md)
     - [context2vec : Learning Generic Context Embedding with Bidirectional LSTM](papers/context2vec-learning-generic-context-embedding-with-bidirectional-LSTM.md)
     - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](papers/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding.md)
+    - [Commonsense for Generative Multi-Hop Question Answering](papers/commonsense-for-generative-multi-hop-question-answering-2018.md.md)
 
-    
   - 4.Task-Oriented Dialogues
     - [A Network-based End-to-End Trainable Task-oriented Dialogue System, 2017](papers/a-network-based-end-to-end-trainable-task-oriented-dialogue-system-2017.md)
   
@@ -44,6 +44,7 @@
     - [A Diversity-Promoting Objective Function for Neural Conversation Models, 2016](papers/a-diversity-promoting-objective-function-for-neural-conversational-models-2016.md)
     - [End-to-End Task-Completion Neural Dialogue Systems, 2018](papers/end-to-end-task-completion-neural-dialogue-systems-2018.md) 
     - [Neural Responding Machine for Short-Text Conversation, 2015](papers/neural-responding-machine-for-short-text-conversation-2015.md)
+    - [A Knowledge-Grounded Neural Conversation Model, 2017](papers/a-knowledge-grounded-neural-conversation-model-2017.md)
 
   - 6.Visual Question Answering
     - [Visual Question Answering: Datasets, Algorithms, and Future Challenges](papers/visual-question-answering-2016.md)
@@ -57,8 +58,16 @@
     - [Auto Encoding Variational Bayes,2014](papers/auto-encoding-variational-bayes-2013.md)
     - [A Simple But Tough-to-Beat Baseline for Sentence embeddings,2017](papers/a-simple-but-tough-to-beat-baseline-for-sentence-embeddings-2017.md)
     - [Sequence to Sequence Learning with Neural Networks](papers/sequence-to-sequence-searning-with-neural-networks-2014.md)
+    - [Dynamic Routing Between Capsules](papers/dynamic-routing-between-capsules-2017.md)
+    - [Convolutional Sequence to Sequence Learning,2017](papers/convolutional-sequence-to-sequence-learning-2017.md) 
+    - [Language Modeling with Gated Convolutional Networks](papers/Language-Modeling-with-Gated-Convolutional-Networks-2017.md)
 
   - 8.embeding technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
     - [Skip-Thought Vectors,2015](papers/skip-thought-vectors-2015.md)
+    - [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](papers/glomo-unsupervisedly-learned-relational-graphs-as-transferable-representations.md)
     - [Character-Level Language Modeling with Deeper Self-Attention,2018](papers/character-level-language-modeling-with-deeper-self-attention-2018.md)
+    
+  - 9. Knowledge Graph
+    - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks,2018](papers/graph2seq-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
+
