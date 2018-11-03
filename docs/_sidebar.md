@@ -54,7 +54,7 @@
     - [Dual Attention Network for Multimodal Reasoning and Matching](papers/dual_attention_network_for_multimodal_reasoning_and_matching.md)
     - [Adversarial cross-modal retrieval](papers/adversarial_cross-modal_Retrieval-2017.md)
 
-  - 7.classical paper
+  - 7.Classical Paper
     - [Attention Is All You Need,2017](papers/attention-is-all-you-need-2017.md)
     - [GloVe: Global Vectors for Word Representation,2014](papers/glove-global-vectors-for-word-representation-2014.md)
     - [Auto Encoding Variational Bayes,2014](papers/auto-encoding-variational-bayes-2013.md)
@@ -63,8 +63,9 @@
     - [Dynamic Routing Between Capsules](papers/dynamic-routing-between-capsules-2017.md)
     - [Convolutional Sequence to Sequence Learning,2017](papers/convolutional-sequence-to-sequence-learning-2017.md) 
     - [Language Modeling with Gated Convolutional Networks](papers/Language-Modeling-with-Gated-Convolutional-Networks-2017.md)
+    - [Effective Approaches to Attention-based Neural Machine Translation](papers/effective-approaches-to-attention-based-neural-machine-translation-2015)
 
-  - 8.embeding technique
+  - 8.Embeding Technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
     - [Skip-Thought Vectors,2015](papers/skip-thought-vectors-2015.md)
     - [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](papers/glomo-unsupervisedly-learned-relational-graphs-as-transferable-representations.md)
