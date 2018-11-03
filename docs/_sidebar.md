@@ -39,6 +39,7 @@
 
   - 4.Task-Oriented Dialogues
     - [A Network-based End-to-End Trainable Task-oriented Dialogue System, 2017](papers/a-network-based-end-to-end-trainable-task-oriented-dialogue-system-2017.md)
+    - [Neural Belief Tracker: Data-Driven Dialogue State Tracking, 2017](papers/neural-belief-tracker-data-driven-dialogue-state-tracking-2017.md)
   
   - 5.Fully data-driven conversation models
     - [A Diversity-Promoting Objective Function for Neural Conversation Models, 2016](papers/a-diversity-promoting-objective-function-for-neural-conversational-models-2016.md)
