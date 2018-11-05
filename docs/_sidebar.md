@@ -39,7 +39,9 @@
 
   - 4.Task-Oriented Dialogues
     - [A Network-based End-to-End Trainable Task-oriented Dialogue System, 2017](papers/a-network-based-end-to-end-trainable-task-oriented-dialogue-system-2017.md)
-  
+    - [Slot-Gated Modeling for Joint Slot Filling and Intent Prediction, 2018](/papers/slot-gated-modeling-for-joint-slot-filling-and-intent-prediction-2018.md)
+    - [Neural Belief Tracker: Data-Driven Dialogue State Tracking, 2017](papers/neural-belief-tracker-data-driven-dialogue-state-tracking-2017.md)
+
   - 5.Fully data-driven conversation models
     - [A Diversity-Promoting Objective Function for Neural Conversation Models, 2016](papers/a-diversity-promoting-objective-function-for-neural-conversational-models-2016.md)
     - [End-to-End Task-Completion Neural Dialogue Systems, 2018](papers/end-to-end-task-completion-neural-dialogue-systems-2018.md) 
@@ -52,7 +54,7 @@
     - [Dual Attention Network for Multimodal Reasoning and Matching](papers/dual_attention_network_for_multimodal_reasoning_and_matching.md)
     - [Adversarial cross-modal retrieval](papers/adversarial_cross-modal_Retrieval-2017.md)
 
-  - 7.classical paper
+  - 7.Classical Paper
     - [Attention Is All You Need,2017](papers/attention-is-all-you-need-2017.md)
     - [GloVe: Global Vectors for Word Representation,2014](papers/glove-global-vectors-for-word-representation-2014.md)
     - [Auto Encoding Variational Bayes,2014](papers/auto-encoding-variational-bayes-2013.md)
@@ -60,6 +62,15 @@
     - [Sequence to Sequence Learning with Neural Networks](papers/sequence-to-sequence-searning-with-neural-networks-2014.md)
     - [Dynamic Routing Between Capsules](papers/dynamic-routing-between-capsules-2017.md)
     - [Convolutional Sequence to Sequence Learning,2017](papers/convolutional-sequence-to-sequence-learning-2017.md) 
+    - [Language Modeling with Gated Convolutional Networks](papers/Language-Modeling-with-Gated-Convolutional-Networks-2017.md)
+    - [Effective Approaches to Attention-based Neural Machine Translation](papers/effective-approaches-to-attention-based-neural-machine-translation-2015)
 
-  - 8.embeding technique
+  - 8.Embeding Technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
+    - [Skip-Thought Vectors,2015](papers/skip-thought-vectors-2015.md)
+    - [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](papers/glomo-unsupervisedly-learned-relational-graphs-as-transferable-representations.md)
+    - [Character-Level Language Modeling with Deeper Self-Attention,2018](papers/character-level-language-modeling-with-deeper-self-attention-2018.md)
+    
+  - 9. Knowledge Graph
+    - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks,2018](papers/graph2seq-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
+
