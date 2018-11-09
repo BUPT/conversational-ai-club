@@ -66,7 +66,7 @@
     - [Language Modeling with Gated Convolutional Networks](papers/language-modeling-with-gated-convolutional-networks-2017.md)
     - [Effective Approaches to Attention-based Neural Machine Translation](papers/effective-approaches-to-attention-based-neural-machine-translation-2015)
 
-  - 8.Embeding Technique
+  - 8.Embedding Technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
     - [Skip-Thought Vectors,2015](papers/skip-thought-vectors-2015.md)
     - [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](papers/glomo-unsupervisedly-learned-relational-graphs-as-transferable-representations.md)
