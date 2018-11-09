@@ -63,7 +63,7 @@
     - [Dynamic Routing Between Capsules](papers/dynamic-routing-between-capsules-2017.md)
     - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](papers/evolution-strategies-as-a-scalable-alternative-to-reinforcement-learning-2017.md)
     - [Convolutional Sequence to Sequence Learning,2017](papers/convolutional-sequence-to-sequence-learning-2017.md) 
-    - [Language Modeling with Gated Convolutional Networks](papers/Language-Modeling-with-Gated-Convolutional-Networks-2017.md)
+    - [Language Modeling with Gated Convolutional Networks](papers/language-modeling-with-gated-convolutional-networks-2017.md)
     - [Effective Approaches to Attention-based Neural Machine Translation](papers/effective-approaches-to-attention-based-neural-machine-translation-2015)
 
   - 8.Embeding Technique
