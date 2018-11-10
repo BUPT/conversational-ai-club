@@ -53,6 +53,7 @@
     - [Object-Difference Attention: A Simple Relational Attention for Visual Question Answering](papers/object-difference-attention-a-simple-relational-attention-for-VQA.md)
     - [Dual Attention Network for Multimodal Reasoning and Matching](papers/dual_attention_network_for_multimodal_reasoning_and_matching.md)
     - [Adversarial cross-modal retrieval](papers/adversarial_cross-modal_Retrieval-2017.md)
+    - [Stacked Cross Attention for Image-Text Matching](papers/stacked-cross-attention-for-image-text-matching-2018.md)
 
   - 7.Classical Paper
     - [Attention Is All You Need,2017](papers/attention-is-all-you-need-2017.md)
