@@ -49,23 +49,24 @@
     - [A Knowledge-Grounded Neural Conversation Model, 2017](papers/a-knowledge-grounded-neural-conversation-model-2017.md)
 
   - 6.Visual Question Answering
-    - [Visual Question Answering: Datasets, Algorithms, and Future Challenges](papers/visual-question-answering-2016.md)
-    - [Object-Difference Attention: A Simple Relational Attention for Visual Question Answering](papers/object-difference-attention-a-simple-relational-attention-for-VQA.md)
+    - [Visual Question Answering: Datasets, Algorithms, and Future Challenges,2016](papers/visual-question-answering-2016.md)
+    - [Object-Difference Attention: A Simple Relational Attention for Visual Question Answering,2018](papers/object-difference-attention-a-simple-relational-attention-for-VQA.md)
     - [Dual Attention Network for Multimodal Reasoning and Matching](papers/dual_attention_network_for_multimodal_reasoning_and_matching.md)
-    - [Adversarial cross-modal retrieval](papers/adversarial_cross-modal_Retrieval-2017.md)
-    - [Stacked Cross Attention for Image-Text Matching](papers/stacked-cross-attention-for-image-text-matching-2018.md)
+    - [Adversarial cross-modal retrieval,2017](papers/adversarial_cross-modal_Retrieval-2017.md)
+    - [Stacked Cross Attention for Image-Text Matching,2018](papers/stacked-cross-attention-for-image-text-matching-2018.md)
 
   - 7.Classical Paper
     - [Attention Is All You Need,2017](papers/attention-is-all-you-need-2017.md)
     - [GloVe: Global Vectors for Word Representation,2014](papers/glove-global-vectors-for-word-representation-2014.md)
     - [Auto Encoding Variational Bayes,2014](papers/auto-encoding-variational-bayes-2013.md)
     - [A Simple But Tough-to-Beat Baseline for Sentence embeddings,2017](papers/a-simple-but-tough-to-beat-baseline-for-sentence-embeddings-2017.md)
-    - [Sequence to Sequence Learning with Neural Networks](papers/sequence-to-sequence-searning-with-neural-networks-2014.md)
-    - [Dynamic Routing Between Capsules](papers/dynamic-routing-between-capsules-2017.md)
-    - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning](papers/evolution-strategies-as-a-scalable-alternative-to-reinforcement-learning-2017.md)
+    - [Sequence to Sequence Learning with Neural Networks,2014](papers/sequence-to-sequence-searning-with-neural-networks-2014.md)
+    - [Dynamic Routing Between Capsules,2017](papers/dynamic-routing-between-capsules-2017.md)
+    - [Evolution Strategies as a Scalable Alternative to Reinforcement Learning,2017](papers/evolution-strategies-as-a-scalable-alternative-to-reinforcement-learning-2017.md)
     - [Convolutional Sequence to Sequence Learning,2017](papers/convolutional-sequence-to-sequence-learning-2017.md) 
-    - [Language Modeling with Gated Convolutional Networks](papers/language-modeling-with-gated-convolutional-networks-2017.md)
-    - [Effective Approaches to Attention-based Neural Machine Translation](papers/effective-approaches-to-attention-based-neural-machine-translation-2015)
+    - [Language Modeling with Gated Convolutional Networks,2017](papers/language-modeling-with-gated-convolutional-networks-2017.md)
+    - [Effective Approaches to Attention-based Neural Machine Translation,2015](papers/effective-approaches-to-attention-based-neural-machine-translation-2015)
+    - [Mixture Density Networks,1994](papers/mixture-density-networks-1994.md)
 
   - 8.Embedding Technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
