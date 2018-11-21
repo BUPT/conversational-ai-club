@@ -67,6 +67,7 @@
     - [Language Modeling with Gated Convolutional Networks,2017](papers/language-modeling-with-gated-convolutional-networks-2017.md)
     - [Effective Approaches to Attention-based Neural Machine Translation,2015](papers/effective-approaches-to-attention-based-neural-machine-translation-2015)
     - [Mixture Density Networks,1994](papers/mixture-density-networks-1994.md)
+    - [On Learning to Think, 2015](papers/on-learning-to-think-2015.md)
 
   - 8.Embedding Technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
