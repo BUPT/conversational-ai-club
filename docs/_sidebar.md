@@ -55,6 +55,7 @@
     - [Dual Attention Network for Multimodal Reasoning and Matching](papers/dual_attention_network_for_multimodal_reasoning_and_matching.md)
     - [Adversarial cross-modal retrieval,2017](papers/adversarial_cross-modal_Retrieval-2017.md)
     - [Stacked Cross Attention for Image-Text Matching,2018](papers/stacked-cross-attention-for-image-text-matching-2018.md)
+    - [A Comprehensive Survey on Cross-modal Retrieval](papers/a-comprehensive-survey-on-cross-retrieval.md)
 
   - 7.Classical Paper
     - [Attention Is All You Need,2017](papers/attention-is-all-you-need-2017.md)
