@@ -9,4 +9,4 @@
 | github |  |
 | paperweekly |  |
 | page | 144 |
-| member | You are here |
+| member | [@Samurais](https://github.com/Samurais) |
