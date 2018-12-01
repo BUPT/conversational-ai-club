@@ -58,6 +58,7 @@
     - [A Comprehensive Survey on Cross-modal Retrieval](papers/a-comprehensive-survey-on-cross-retrieval.md)
 
   - 7.Classical Paper
+    - [The Viterbi Algorithm, 1973](papers/the-viterbi-algorithm-1973.md)
     - [Attention Is All You Need,2017](papers/attention-is-all-you-need-2017.md)
     - [GloVe: Global Vectors for Word Representation,2014](papers/glove-global-vectors-for-word-representation-2014.md)
     - [Auto Encoding Variational Bayes,2014](papers/auto-encoding-variational-bayes-2013.md)
