@@ -58,7 +58,7 @@
     - [A Comprehensive Survey on Cross-modal Retrieval](papers/a-comprehensive-survey-on-cross-retrieval.md)
 
   - 7.Classical Paper
-    - [The Viterbi Algorithm, 1973](papers/the-viterbi-algorithm-1973.md)
+    - [The Viterbi Algorithm,1973](papers/the-viterbi-algorithm-1973.md)
     - [Attention Is All You Need,2017](papers/attention-is-all-you-need-2017.md)
     - [GloVe: Global Vectors for Word Representation,2014](papers/glove-global-vectors-for-word-representation-2014.md)
     - [Auto Encoding Variational Bayes,2014](papers/auto-encoding-variational-bayes-2013.md)
@@ -70,9 +70,9 @@
     - [Language Modeling with Gated Convolutional Networks,2017](papers/language-modeling-with-gated-convolutional-networks-2017.md)
     - [Effective Approaches to Attention-based Neural Machine Translation,2015](papers/effective-approaches-to-attention-based-neural-machine-translation-2015)
     - [Mixture Density Networks,1994](papers/mixture-density-networks-1994.md)
-    - [On Learning to Think, 2015](papers/on-learning-to-think-2015.md)
-    - [An overview of gradient descent optimization algorithms](papers/overview-of-gradient-descent-optimization-algorithms-2016.md
-)
+    - [On Learning to Think,2015](papers/on-learning-to-think-2015.md)
+    - [An overview of gradient descent optimization algorithms,2016](papers/overview-of-gradient-descent-optimization-algorithms-2016.md)
+    - [The Consciousness Prior](papers/the-consciousness-prior-2017.md)
 
   - 8.Embedding Technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
