@@ -48,6 +48,7 @@
     - [Neural Responding Machine for Short-Text Conversation, 2015](papers/neural-responding-machine-for-short-text-conversation-2015.md)
     - [A Knowledge-Grounded Neural Conversation Model, 2017](papers/a-knowledge-grounded-neural-conversation-model-2017.md)
     - [CoQA: A Conversational Question Answering Challenge, 2018](papers/coqa-a-conversational-question-answering-challenge-2018.md)
+    - [flowqa:-grasping-flow-in-history-for-conversational-machine-comprehension, 2018](papers/flowqa:-grasping-flow-in-history-for-conversational-machine-comprehension-2018.md)
 
   - 6.Visual Question Answering
     - [Visual Question Answering: Datasets, Algorithms, and Future Challenges,2016](papers/visual-question-answering-2016.md)
