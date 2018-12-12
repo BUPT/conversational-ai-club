@@ -1,6 +1,6 @@
 # conversational-ai-club
 
-[![BUPT CAD Project](https://img.shields.io/badge/%20-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
+[![BUPT CAD Project](https://img.shields.io/badge/👀-BUPT_CAD_Project-blue.svg)](https://github.com/bupt/awesome-cad)
 
 Paper list based on `docsify`
 
