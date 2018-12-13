@@ -9,7 +9,7 @@
 | github | <https://pytorch.org/tutorials/beginner/chatbot_tutorial.html#decoder> |
 | paperweekly |  |
 | page |  |
-| member | [@zixia](https://github.com/zixia) |
+| member | [@huan](https://github.com/zixia) |
 
 ## History
 
