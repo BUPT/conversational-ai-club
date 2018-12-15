@@ -10,4 +10,4 @@
 | github |  https://github.com/mali-git/CSQA_Implementation |
 | paperweekly |  None |
 | page | 9 |
-| member | [@High128Net](https://github.com/High128Net) |
+| member | [@charliecheung99](https://github.com/charliecheung99) |
