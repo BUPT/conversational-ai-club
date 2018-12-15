@@ -9,10 +9,11 @@
 | github | https://github.com/tensorflow/tensorflow/blob/master/tensorflow/contrib/eager/python/examples/nmt_with_attention/nmt_with_attention.ipynb |
 | paperweekly |  |
 | page |  |
-| member | [@zixia](https://github.com/zixia) |
+| member | [@huan](https://github.com/zixia) |
 
 ## History
 
+- [CAIC #10](https://github.com/BUPT/awesome-chatbot/issues/24)
 
 ## See Also
 

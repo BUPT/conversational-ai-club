@@ -15,6 +15,6 @@ This tutorial surveys neural approaches to conversational AI that were developed
 
 ## Links
 
-- PDF: [Neural Approaches to Conversational AI](_media/Neural Approaches to Conversational AI.pdf)
+- PDF: [Neural Approaches to Conversational AI](https://bupt.github.io/conversational-ai-club/_media/Neural%20Approaches%20to%20Conversational%20AI.pdf)
 - PPT: [Neural Approaches to Conversational AI](https://1drv.ms/p/s!AshEqwB44aR6k8wgo9s-Jk3-A8ZiaQ)
 - Official Home: [Microsoft Research Publication](https://www.microsoft.com/en-us/research/publication/neural-approaches-to-conversational-ai/)
