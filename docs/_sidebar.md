@@ -26,6 +26,7 @@
     - [DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning](papers/deeppath-a-reinforcement-learning-method-for-knowledge-graph-reasoning-2018.md)
     - [Character-Level Question Answering with Attention](papers/character-level-question-answering-with-attention.md)
     - [Natural Language Inference with Hierarchical BiLSTM Max Pooling Architecture](papers/natural-language-inference-with-hierarchical-bilstm-max-pooling-architecture-2018.md)
+    - [Complex Sequential Question Answering: Towards Learning to Converse Over Linked Question Answer Pairs with a Knowledge Graph](papers/complex-sequential-question-answering-towards-learning-to-converse-over-linked-question-answer-pairs-with-a-knowledge-graph-2018.md)
     
   - 3.Machine Reading Comprehension
     - [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension, 2018](papers/qanet-combining-local-convolution-with-global-self-attention-for-reading-comprehension-2018.md)
