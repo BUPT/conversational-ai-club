@@ -2,7 +2,7 @@
 
 |  |  |
 | :--- | :--- |
-| title | A Comprehensive Survey on Cross-modal Retrieva |
+| title | A Comprehensive Survey on Cross-modal Retrieval |
 | author | Kaiye Wang, Qiyue Yin, Wei Wang, Shu Wu, Liang Wang |
 | year | 2018 |
 | paper |   https://arxiv.org/abs/1607.06215 |

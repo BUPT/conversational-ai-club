@@ -26,7 +26,6 @@
     - [DeepPath: A Reinforcement Learning Method for Knowledge Graph Reasoning](papers/deeppath-a-reinforcement-learning-method-for-knowledge-graph-reasoning-2018.md)
     - [Character-Level Question Answering with Attention](papers/character-level-question-answering-with-attention.md)
     - [Natural Language Inference with Hierarchical BiLSTM Max Pooling Architecture](papers/natural-language-inference-with-hierarchical-bilstm-max-pooling-architecture-2018.md)
-    - [Complex Sequential Question Answering: Towards Learning to Converse Over Linked Question Answer Pairs with a Knowledge Graph](papers/complex-sequential-question-answering-towards-learning-to-converse-over-linked-question-answer-pairs-with-a-knowledge-graph-2018.md)
     
   - 3.Machine Reading Comprehension
     - [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension, 2018](papers/qanet-combining-local-convolution-with-global-self-attention-for-reading-comprehension-2018.md)
@@ -49,10 +48,10 @@
     - [Neural Responding Machine for Short-Text Conversation, 2015](papers/neural-responding-machine-for-short-text-conversation-2015.md)
     - [A Knowledge-Grounded Neural Conversation Model, 2017](papers/a-knowledge-grounded-neural-conversation-model-2017.md)
     - [CoQA: A Conversational Question Answering Challenge, 2018](papers/coqa-a-conversational-question-answering-challenge-2018.md)
-    - [flowqa:-grasping-flow-in-history-for-conversational-machine-comprehension, 2018](papers/flowqa--grasping-flow-in-history-for-conversational-machine-comprehension-2018.md)
 
   - 6.Visual Question Answering
     - [Visual Question Answering: Datasets, Algorithms, and Future Challenges,2016](papers/visual-question-answering-2016.md)
+    - [A Comprehensive Survey of Deep Learning for Image Captioning,2018](papers/a-comprehensive-survey-of-deep-learning-for-image-captioning.md)
     - [Object-Difference Attention: A Simple Relational Attention for Visual Question Answering,2018](papers/object-difference-attention-a-simple-relational-attention-for-VQA.md)
     - [Dual Attention Network for Multimodal Reasoning and Matching](papers/dual_attention_network_for_multimodal_reasoning_and_matching.md)
     - [Adversarial cross-modal retrieval,2017](papers/adversarial_cross-modal_Retrieval-2017.md)
@@ -82,7 +81,6 @@
     - [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](papers/glomo-unsupervisedly-learned-relational-graphs-as-transferable-representations.md)
     - [Character-Level Language Modeling with Deeper Self-Attention,2018](papers/character-level-language-modeling-with-deeper-self-attention-2018.md)
     - [Dict2vec : Learning Word Embeddings using Lexical Dictionaries,2017](papers/dict2vec-learning-word-embeddings-using-lexical-dictionaries-2017.md)
-    - [Order Embeddings of Images and Language](papers/order-embeddings-of-images-and-language-2016.md)
   - 9. Knowledge Graph
     - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks,2018](papers/graph2seq-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
 
