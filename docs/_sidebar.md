@@ -53,6 +53,7 @@
 
   - 6.Visual Question Answering
     - [Visual Question Answering: Datasets, Algorithms, and Future Challenges,2016](papers/visual-question-answering-2016.md)
+    - [A Comprehensive Survey of Deep Learning for Image Captioning,2018](papers/a-comprehensive-survey-of-deep-learning-for-image-captioning.md)
     - [Object-Difference Attention: A Simple Relational Attention for Visual Question Answering,2018](papers/object-difference-attention-a-simple-relational-attention-for-VQA.md)
     - [Dual Attention Network for Multimodal Reasoning and Matching](papers/dual_attention_network_for_multimodal_reasoning_and_matching.md)
     - [Adversarial cross-modal retrieval,2017](papers/adversarial_cross-modal_Retrieval-2017.md)
@@ -74,7 +75,7 @@
     - [Mixture Density Networks,1994](papers/mixture-density-networks-1994.md)
     - [On Learning to Think,2015](papers/on-learning-to-think-2015.md)
     - [An overview of gradient descent optimization algorithms,2016](papers/overview-of-gradient-descent-optimization-algorithms-2016.md)
-    - [The Consciousness Prior](papers/the-consciousness-prior-2017.md)
+    - [The Consciousness Prior,2017](papers/the-consciousness-prior-2017.md)
 
   - 8.Embedding Technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
