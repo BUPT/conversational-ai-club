@@ -10,15 +10,16 @@
 - Papers List
 <!--NOTE:有序列表的一级列表“1.“后不能有空格-->
   - 1.Overview
+    - [A Syntactic Neural Model for General-Purpose Code Generation,2017](a-syntactic-neural-model-for-general-purpose-code-generation-2017.md)
   
   - 2.Open-Domain Question Answering
-    - [Link Prediction using Embedded Knowledge Graphs, 2016](papers/link-prediction-using-embedded-knowledge-graphs-2016.md)  
-    - [The Natural Language Decathlon: Multitask Learning as Question Answering, 2017](papers/the-natural-language-decathlon-multitask-learning-as-question-answering-2018.md)
+    - [Link Prediction using Embedded Knowledge Graphs,2016](papers/link-prediction-using-embedded-knowledge-graphs-2016.md)  
+    - [The Natural Language Decathlon: Multitask Learning as Question Answering,2017](papers/the-natural-language-decathlon-multitask-learning-as-question-answering-2018.md)
     - [An End-to-End Model for Question Answering over Knowledge Base with Cross-Attention Combining Global Knowledge,2017](papers/an-end-to-end-model-for-question-answering-over-knowledge-base-with-cross-attention-combining-global-knowledge.md)
-    - [Semantic Parsing on Freebase from Question-Answer Pairs，2013](papers/semantic-parsing-on-freebase-from-question-answer-pairs-2013.md)
+    - [Semantic Parsing on Freebase from Question-Answer Pairs,2013](papers/semantic-parsing-on-freebase-from-question-answer-pairs-2013.md)
     - [Information Extraction over Structured Data:Question Answering with Freebase，2014](papers/information-extraction-over-structured-data-question-answering-with-freebase-2014.md)
-    - [Question Answering with Subgraph Embeddings，2014](papers/question-answering-with-subgraph-embeddings-2014.md)
-    - [Question Answering over Freebase with Multi-Column Convolutional Neural Networks，2015](papers/question-answering-over-freebase-with-multi-column-convolutional-neural-networks-2015.md)
+    - [Question Answering with Subgraph Embeddings,2014](papers/question-answering-with-subgraph-embeddings-2014.md)
+    - [Question Answering over Freebase with Multi-Column Convolutional Neural Networks,2015](papers/question-answering-over-freebase-with-multi-column-convolutional-neural-networks-2015.md)
     - [Improving question answering by commonsense-based pre-training](papers/improving-question-answering-by-commonsense-based-pre-training-2018.md)
     - [Large-scale Simple Question Answering with Memory Network](papers/large-scale-simple-question-answering-with-memory-network-2015.md)
     - [CFO: Conditional Focused Neural Question Answering with Large-scale Knowledge Bases,2016](papers/cfo-conditional-focused-neural-question-answering-with-large-scale-knowledge-bases-2015.md)
@@ -30,7 +31,7 @@
     
   - 3.Machine Reading Comprehension
     - [QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension, 2018](papers/qanet-combining-local-convolution-with-global-self-attention-for-reading-comprehension-2018.md)
-    - [Reading Wikipedia to Answer Open-Domain Questions, 2017](papers/reading-wikipedia-to-answer-open-domain-questions-2017.md)
+    - [Reading Wikipedia to Answer Open-Domain Questions,2017](papers/reading-wikipedia-to-answer-open-domain-questions-2017.md)
     - [Distributed Representations of Words and Phrases and their Compositionality, 2013](papers/distributed-representations-of-words-and-phrases-2013.md)
     - [R-NET: MACHINE READING COMPREHENSION WITH SELF-MATCHING NETWORKS](papers/r-net-machine-reading-comprehension-with-self-matching-networks-2017.md)
     - [MACHINE COMPREHENSION USING MATCH-LSTM AND ANSWER POINTER](papers/machine-comprehension-using-match-lstm-and-answer-pointer-2016.md)
@@ -76,6 +77,7 @@
     - [On Learning to Think,2015](papers/on-learning-to-think-2015.md)
     - [An overview of gradient descent optimization algorithms,2016](papers/overview-of-gradient-descent-optimization-algorithms-2016.md)
     - [The Consciousness Prior,2017](papers/the-consciousness-prior-2017.md)
+    - [Attention and Augmented Recurrent Neural Networks](attention-and-augmented-recurrent-neural-networks-2016.md)
 
   - 8.Embedding Technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
