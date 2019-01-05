@@ -89,3 +89,5 @@
   - 9. Knowledge Graph
     - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks,2018](papers/graph2seq-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
 
+  - 10. Variational AutoEncoder
+    - [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](papers/beta-vae-learning-basic-visual-concepts-with-a-constrained-variational-framework.md)
