@@ -91,3 +91,5 @@
   - 9. Knowledge Graph
     - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks,2018](papers/graph2seq-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
 
+  - 10. Sentiment Analysis
+    - [Recurrent Attention Network on Memory for Aspect Sentiment Analysis](papers/recurrent-attention-network-on-memory-for-aspect-sentiment-analysis-2017.md)
