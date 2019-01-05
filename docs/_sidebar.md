@@ -51,6 +51,7 @@
     - [A Knowledge-Grounded Neural Conversation Model, 2017](papers/a-knowledge-grounded-neural-conversation-model-2017.md)
     - [CoQA: A Conversational Question Answering Challenge, 2018](papers/coqa-a-conversational-question-answering-challenge-2018.md)
     - [flowqa:-grasping-flow-in-history-for-conversational-machine-comprehension, 2018](papers/flowqa--grasping-flow-in-history-for-conversational-machine-comprehension-2018.md)
+    - [The Design and Implementation of XiaoIce, an Empathetic Social Chatbot, 2018](papers/the-design-and-implementation-of-xiaoice-an-empathetic-social-chatbot.md)
 
   - 6.Visual Question Answering
     - [Visual Question Answering: Datasets, Algorithms, and Future Challenges,2016](papers/visual-question-answering-2016.md)
