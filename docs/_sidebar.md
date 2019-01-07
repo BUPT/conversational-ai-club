@@ -87,6 +87,7 @@
     - [Dict2vec : Learning Word Embeddings using Lexical Dictionaries,2017](papers/dict2vec-learning-word-embeddings-using-lexical-dictionaries-2017.md)
     - [Order Embeddings of Images and Language](papers/order-embeddings-of-images-and-language-2016.md)
     - [cw2vec: Learning Chinese Word Embeddings with Stroke n-gram Information](papers/cw2vec-learning-chinese-word-embeddings-with-stroke-n-gram-information-2018.md)
+    - [FRAGE: Frequency-Agnostic Word Representation,2018](papers/FRAGE-frequency-agnostic-word-representation-2018.md)
     
   - 9. Knowledge Graph
     - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks,2018](papers/graph2seq-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
