@@ -94,3 +94,6 @@
 
   - 10. AutoEncoder
     - [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](papers/beta-vae-learning-basic-visual-concepts-with-a-constrained-variational-framework.md)
+
+  - 11. Sentiment Analysis
+    - [Recurrent Attention Network on Memory for Aspect Sentiment Analysis](papers/recurrent-attention-network-on-memory-for-aspect-sentiment-analysis-2017.md)
