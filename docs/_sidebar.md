@@ -87,7 +87,7 @@
     - [Dict2vec : Learning Word Embeddings using Lexical Dictionaries,2017](papers/dict2vec-learning-word-embeddings-using-lexical-dictionaries-2017.md)
     - [Order Embeddings of Images and Language](papers/order-embeddings-of-images-and-language-2016.md)
     - [cw2vec: Learning Chinese Word Embeddings with Stroke n-gram Information](papers/cw2vec-learning-chinese-word-embeddings-with-stroke-n-gram-information-2018.md)
-    
+    - [Graph Convolution over Pruned Dependency Trees Improves Relation Extraction](papers/graph-convolution-over-pruned-dependency-trees-improves-relation-extraction.md)
+
   - 9. Knowledge Graph
     - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks,2018](papers/graph2seq-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
-
