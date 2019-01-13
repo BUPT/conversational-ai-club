@@ -38,6 +38,7 @@
     - [context2vec : Learning Generic Context Embedding with Bidirectional LSTM](papers/context2vec-learning-generic-context-embedding-with-bidirectional-LSTM.md)
     - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](papers/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding.md)
     - [Commonsense for Generative Multi-Hop Question Answering](papers/commonsense-for-generative-multi-hop-question-answering-2018.md.md)
+    - [Dual Ask-Answer Network for Machine Reading Comprehension](papers/dual-ask-answer-network-for-machine-reading-comprehension.md)
 
   - 4.Task-Oriented Dialogues
     - [A Network-based End-to-End Trainable Task-oriented Dialogue System, 2017](papers/a-network-based-end-to-end-trainable-task-oriented-dialogue-system-2017.md)
@@ -51,6 +52,7 @@
     - [A Knowledge-Grounded Neural Conversation Model, 2017](papers/a-knowledge-grounded-neural-conversation-model-2017.md)
     - [CoQA: A Conversational Question Answering Challenge, 2018](papers/coqa-a-conversational-question-answering-challenge-2018.md)
     - [flowqa:-grasping-flow-in-history-for-conversational-machine-comprehension, 2018](papers/flowqa--grasping-flow-in-history-for-conversational-machine-comprehension-2018.md)
+    - [The Design and Implementation of XiaoIce, an Empathetic Social Chatbot, 2018](papers/the-design-and-implementation-of-xiaoice-an-empathetic-social-chatbot.md)
 
   - 6.Visual Question Answering
     - [Visual Question Answering: Datasets, Algorithms, and Future Challenges,2016](papers/visual-question-answering-2016.md)
@@ -85,9 +87,15 @@
     - [GLoMo: Unsupervisedly Learned Relational Graphs as Transferable Representations](papers/glomo-unsupervisedly-learned-relational-graphs-as-transferable-representations.md)
     - [Character-Level Language Modeling with Deeper Self-Attention,2018](papers/character-level-language-modeling-with-deeper-self-attention-2018.md)
     - [Dict2vec : Learning Word Embeddings using Lexical Dictionaries,2017](papers/dict2vec-learning-word-embeddings-using-lexical-dictionaries-2017.md)
-    - [Order Embeddings of Images and Language](papers/order-embeddings-of-images-and-language-2016.md)
     - [cw2vec: Learning Chinese Word Embeddings with Stroke n-gram Information](papers/cw2vec-learning-chinese-word-embeddings-with-stroke-n-gram-information-2018.md)
+    - [FRAGE: Frequency-Agnostic Word Representation,2018](papers/FRAGE-frequency-agnostic-word-representation-2018.md)
     - [Graph Convolution over Pruned Dependency Trees Improves Relation Extraction](papers/graph-convolution-over-pruned-dependency-trees-improves-relation-extraction.md)
 
   - 9. Knowledge Graph
     - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks,2018](papers/graph2seq-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
+
+  - 10. AutoEncoder
+    - [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](papers/beta-vae-learning-basic-visual-concepts-with-a-constrained-variational-framework.md)
+
+  - 11. Sentiment Analysis
+    - [Recurrent Attention Network on Memory for Aspect Sentiment Analysis](papers/recurrent-attention-network-on-memory-for-aspect-sentiment-analysis-2017.md)
