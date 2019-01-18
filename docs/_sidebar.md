@@ -54,7 +54,7 @@
     - [flowqa:-grasping-flow-in-history-for-conversational-machine-comprehension, 2018](papers/flowqa--grasping-flow-in-history-for-conversational-machine-comprehension-2018.md)
     - [The Design and Implementation of XiaoIce, an Empathetic Social Chatbot, 2018](papers/the-design-and-implementation-of-xiaoice-an-empathetic-social-chatbot.md)
 
-  - 6.Visual Question Answering
+  - 6.Multimodal Recognition
     - [Visual Question Answering: Datasets, Algorithms, and Future Challenges,2016](papers/visual-question-answering-2016.md)
     - [A Comprehensive Survey of Deep Learning for Image Captioning,2018](papers/a-comprehensive-survey-of-deep-learning-for-image-captioning.md)
     - [Object-Difference Attention: A Simple Relational Attention for Visual Question Answering,2018](papers/object-difference-attention-a-simple-relational-attention-for-VQA.md)
@@ -62,6 +62,7 @@
     - [Adversarial cross-modal retrieval,2017](papers/adversarial_cross-modal_Retrieval-2017.md)
     - [Stacked Cross Attention for Image-Text Matching,2018](papers/stacked-cross-attention-for-image-text-matching-2018.md)
     - [A Comprehensive Survey on Cross-modal Retrieval](papers/a-comprehensive-survey-on-cross-retrieval.md)
+    - [Translating Videos to Natural Language Using Deep Recurrent Neural Networks, 2015](papers/translating-videos-to-natural-language-using-deep-recurrent-neural-networks-2015.md)
 
   - 7.Classical Paper
     - [The Viterbi Algorithm,1973](papers/the-viterbi-algorithm-1973.md)
