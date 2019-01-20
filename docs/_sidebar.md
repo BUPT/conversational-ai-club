@@ -101,3 +101,7 @@
 
   - 11. Sentiment Analysis
     - [Recurrent Attention Network on Memory for Aspect Sentiment Analysis](papers/recurrent-attention-network-on-memory-for-aspect-sentiment-analysis-2017.md)
+  
+  - 12. Generative Adversarial Networks 
+    - [Theme and Sentiment Analysis Model of Public Opinion Dissemination based on
+Generative Adversarial Network](papers/theme-and-sentiment-analysis-model-of-public-opintion-dissemination-based-on-gan-2017.md)
