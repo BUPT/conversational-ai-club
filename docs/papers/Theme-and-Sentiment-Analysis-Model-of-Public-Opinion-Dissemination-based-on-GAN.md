@@ -10,5 +10,5 @@ Generative Adversarial Network |
 | paper |https://drive.google.com/open?id=1ednMWMxJfrGdZEsPzI_fMNw8L1Tp5wel|
 | github |  None |
 | paperweekly | None |
-| page |17|
-| member | [@huyingxi](https://github.com/huyingxi)[@WEN6Lev57q4](https://github.com/WEN6Lev57q4)|
+| page |None|
+| member | [@WEN6Lev57q4](https://github.com/WEN6Lev57q4)|
