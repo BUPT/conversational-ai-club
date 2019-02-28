@@ -62,8 +62,9 @@
     - [Adversarial cross-modal retrieval,2017](papers/adversarial_cross-modal_Retrieval-2017.md)
     - [Stacked Cross Attention for Image-Text Matching,2018](papers/stacked-cross-attention-for-image-text-matching-2018.md)
     - [A Comprehensive Survey on Cross-modal Retrieval](papers/a-comprehensive-survey-on-cross-retrieval.md)
-    - [Multimodal Convolutional Neural Networks for Matching Image and Sentence](papers/multimodal-convolutional-neural-networks-for-matching-image-and-sentence-2015.md)
+    - [Multimodal Convolutional Neural Networks for Matching Image and Sentence, 2015](papers/multimodal-convolutional-neural-networks-for-matching-image-and-sentence-2015.md)
     - [Translating Videos to Natural Language Using Deep Recurrent Neural Networks, 2015](papers/translating-videos-to-natural-language-using-deep-recurrent-neural-networks-2015.md)
+    - [Describing Videos by Exploiting Temporal Structure, 2015](papers/describiing-videos-by-exploiting-temporal-structure-2015.md)
 
   - 7.Classical Paper
     - [The Viterbi Algorithm,1973](papers/the-viterbi-algorithm-1973.md)
@@ -103,5 +104,4 @@
     - [Recurrent Attention Network on Memory for Aspect Sentiment Analysis](papers/recurrent-attention-network-on-memory-for-aspect-sentiment-analysis-2017.md)
   
   - 12. Generative Adversarial Networks 
-    - [Theme and Sentiment Analysis Model of Public Opinion Dissemination based on
-Generative Adversarial Network](papers/theme-and-sentiment-analysis-model-of-public-opintion-dissemination-based-on-gan-2017.md)
+    - [Theme and Sentiment Analysis Model of Public Opinion Dissemination based on Generative Adversarial Network](papers/theme-and-sentiment-analysis-model-of-public-opintion-dissemination-based-on-gan-2017.md)
