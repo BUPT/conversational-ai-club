@@ -65,8 +65,10 @@
     - [Multimodal Convolutional Neural Networks for Matching Image and Sentence, 2015](papers/multimodal-convolutional-neural-networks-for-matching-image-and-sentence-2015.md)
     - [Translating Videos to Natural Language Using Deep Recurrent Neural Networks, 2015](papers/translating-videos-to-natural-language-using-deep-recurrent-neural-networks-2015.md)
     - [Describing Videos by Exploiting Temporal Structure, 2015](papers/describiing-videos-by-exploiting-temporal-structure-2015.md)
+    - [Learning Semantic Concepts and Order for Image and Sentence Matching, 2018](papers/learning-semantic-concepts-and-order-for-image-and-sentence-matching-2018.md)
+    - [Video Captioning via Hierarchical Reinforcement Learning, 2018](papers/video-captioning-via-Hierarchical-reinforcement-learning-2018.md)
 
-    - [Learning Semantic Concepts and Order for Image and Sentence Matching](papers/learning-semantic-concepts-and-order-for-image-and-sentence-matching-2018.md)
+
   - 7.Classical Paper
     - [The Viterbi Algorithm,1973](papers/the-viterbi-algorithm-1973.md)
     - [Attention Is All You Need,2017](papers/attention-is-all-you-need-2017.md)
