@@ -67,6 +67,7 @@
     - [Describing Videos by Exploiting Temporal Structure, 2015](papers/describiing-videos-by-exploiting-temporal-structure-2015.md)
     - [Learning Semantic Concepts and Order for Image and Sentence Matching, 2018](papers/learning-semantic-concepts-and-order-for-image-and-sentence-matching-2018.md)
     - [Video Captioning via Hierarchical Reinforcement Learning, 2018](papers/video-captioning-via-Hierarchical-reinforcement-learning-2018.md)
+    - [Video Description: A Survey of Methods, Datasets and Evaluation Metrics, 2019](video-description-a-survey-of-method-datasets-and-evaluation-metrics-2019.md)
 
 
   - 7.Classical Paper
