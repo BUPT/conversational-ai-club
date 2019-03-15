@@ -98,7 +98,7 @@
     - [Graph Convolution over Pruned Dependency Trees Improves Relation Extraction](papers/graph-convolution-over-pruned-dependency-trees-improves-relation-extraction.md)
 
   - 9. Knowledge Graph
-    - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks,2018](papers/graph2seq-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
+    - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks, 2018](papers/graph2seq-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
 
   - 10. AutoEncoder
     - [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](papers/beta-vae-learning-basic-visual-concepts-with-a-constrained-variational-framework.md)
@@ -108,3 +108,6 @@
   
   - 12. Generative Adversarial Networks 
     - [Theme and Sentiment Analysis Model of Public Opinion Dissemination based on Generative Adversarial Network](papers/theme-and-sentiment-analysis-model-of-public-opintion-dissemination-based-on-gan-2017.md)
+
+  - 13. Recommand System
+    - [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems, 2018](papers/xdeepfm-combining-explicit-and-implicit-feature-interactions-for-recommander-system-2018.md)
