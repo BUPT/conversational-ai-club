@@ -39,6 +39,7 @@
     - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](papers/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding.md)
     - [Commonsense for Generative Multi-Hop Question Answering](papers/commonsense-for-generative-multi-hop-question-answering-2018.md.md)
     - [Dual Ask-Answer Network for Machine Reading Comprehension](papers/dual-ask-answer-network-for-machine-reading-comprehension.md)
+    - [Pretraining-Based Natural Language Generation for Text Summarization](papers/pretraining-based-natural-language-generation-for-text-summarization-2019.md)
 
   - 4.Task-Oriented Dialogues
     - [A Network-based End-to-End Trainable Task-oriented Dialogue System, 2017](papers/a-network-based-end-to-end-trainable-task-oriented-dialogue-system-2017.md)
@@ -65,8 +66,12 @@
     - [Multimodal Convolutional Neural Networks for Matching Image and Sentence, 2015](papers/multimodal-convolutional-neural-networks-for-matching-image-and-sentence-2015.md)
     - [Translating Videos to Natural Language Using Deep Recurrent Neural Networks, 2015](papers/translating-videos-to-natural-language-using-deep-recurrent-neural-networks-2015.md)
     - [Describing Videos by Exploiting Temporal Structure, 2015](papers/describiing-videos-by-exploiting-temporal-structure-2015.md)
+    - [Learning Semantic Concepts and Order for Image and Sentence Matching, 2018](papers/learning-semantic-concepts-and-order-for-image-and-sentence-matching-2018.md)
+    - [Video Captioning via Hierarchical Reinforcement Learning, 2018](papers/video-captioning-via-Hierarchical-reinforcement-learning-2018.md)
+    - [Video Description: A Survey of Methods, Datasets and Evaluation Metrics, 2019](papers/video-description-a-survey-of-method-datasets-and-evaluation-metrics-2019.md)
+    - [No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling, 2018](papers/no-metrics-are-perfect-adversarial-reward-learning-for-visual-storytelling-2018.md)
 
-    - [Learning Semantic Concepts and Order for Image and Sentence Matching](papers/learning-semantic-concepts-and-order-for-image-and-sentence-matching-2018.md)
+
   - 7.Classical Paper
     - [The Viterbi Algorithm,1973](papers/the-viterbi-algorithm-1973.md)
     - [Attention Is All You Need,2017](papers/attention-is-all-you-need-2017.md)
@@ -96,7 +101,7 @@
     - [Graph Convolution over Pruned Dependency Trees Improves Relation Extraction](papers/graph-convolution-over-pruned-dependency-trees-improves-relation-extraction.md)
 
   - 9. Knowledge Graph
-    - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks,2018](papers/graph2seq-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
+    - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks, 2018](papers/graph2seq-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
 
   - 10. AutoEncoder
     - [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](papers/beta-vae-learning-basic-visual-concepts-with-a-constrained-variational-framework.md)
@@ -108,5 +113,8 @@
     - [Theme and Sentiment Analysis Model of Public Opinion Dissemination based on Generative Adversarial Network](papers/theme-and-sentiment-analysis-model-of-public-opintion-dissemination-based-on-gan-2017.md)
     - [TraVeLGAN-Image-to-image Translation by Transformation Vector Learning](papers/travelgan-image-to-image-translation-by-transformation-vector-learning-2019.md)
 
-  - 13. Few-shot Learning
+  - 14. Few-shot Learning
     - [Learning to Compare: Relation Network for Few-Shot Learning](papers/learning-to-compare-relation-network-for-few-shot-learning-2018.md)
+
+  - 13. Recommand System
+    - [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems, 2018](papers/xdeepfm-combining-explicit-and-implicit-feature-interactions-for-recommander-system-2018.md)
