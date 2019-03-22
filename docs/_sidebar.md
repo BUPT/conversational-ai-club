@@ -69,6 +69,7 @@
     - [Learning Semantic Concepts and Order for Image and Sentence Matching, 2018](papers/learning-semantic-concepts-and-order-for-image-and-sentence-matching-2018.md)
     - [Video Captioning via Hierarchical Reinforcement Learning, 2018](papers/video-captioning-via-Hierarchical-reinforcement-learning-2018.md)
     - [Video Description: A Survey of Methods, Datasets and Evaluation Metrics, 2019](papers/video-description-a-survey-of-method-datasets-and-evaluation-metrics-2019.md)
+    - [No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling, 2018](papers/no-metrics-are-perfect-adversarial-reward-learning-for-visual-storytelling-2018.md)
 
 
   - 7.Classical Paper
