@@ -39,6 +39,7 @@
     - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](papers/bert-pre-training-of-deep-bidirectional-transformers-for-language-understanding.md)
     - [Commonsense for Generative Multi-Hop Question Answering](papers/commonsense-for-generative-multi-hop-question-answering-2018.md.md)
     - [Dual Ask-Answer Network for Machine Reading Comprehension](papers/dual-ask-answer-network-for-machine-reading-comprehension.md)
+    - [Pretraining-Based Natural Language Generation for Text Summarization](papers/pretraining-based-natural-language-generation-for-text-summarization-2019.md)
 
   - 4.Task-Oriented Dialogues
     - [A Network-based End-to-End Trainable Task-oriented Dialogue System, 2017](papers/a-network-based-end-to-end-trainable-task-oriented-dialogue-system-2017.md)
