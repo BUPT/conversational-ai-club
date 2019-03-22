@@ -109,4 +109,4 @@
     - [TraVeLGAN-Image-to-image Translation by Transformation Vector Learning](papers/travelgan-image-to-image-translation-by-transformation-vector-learning-2019.md)
 
   - 13. Few-shot Learning
-    - [Learning to Compare: Relation Network for Few-Shot Learning](papers/Learning-to-Compare-Relation-Network-for-Few-Shot-Learning-2019.md)
+    - [Learning to Compare: Relation Network for Few-Shot Learning](papers/learning-to-compare-relation-network-for-few-shot-learning-2018.md)
