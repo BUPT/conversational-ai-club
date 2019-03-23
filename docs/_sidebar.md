@@ -111,6 +111,10 @@
   
   - 12. Generative Adversarial Networks 
     - [Theme and Sentiment Analysis Model of Public Opinion Dissemination based on Generative Adversarial Network](papers/theme-and-sentiment-analysis-model-of-public-opintion-dissemination-based-on-gan-2017.md)
+    - [TraVeLGAN-Image-to-image Translation by Transformation Vector Learning](papers/travelgan-image-to-image-translation-by-transformation-vector-learning-2019.md)
+
+  - 14. Few-shot Learning
+    - [Learning to Compare: Relation Network for Few-Shot Learning](papers/learning-to-compare-relation-network-for-few-shot-learning-2018.md)
 
   - 13. Recommand System
     - [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems, 2018](papers/xdeepfm-combining-explicit-and-implicit-feature-interactions-for-recommander-system-2018.md)
