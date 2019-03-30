@@ -71,6 +71,7 @@
     - [Video Description: A Survey of Methods, Datasets and Evaluation Metrics, 2019](papers/video-description-a-survey-of-method-datasets-and-evaluation-metrics-2019.md)
     - [No Metrics Are Perfect: Adversarial Reward Learning for Visual Storytelling, 2018](papers/no-metrics-are-perfect-adversarial-reward-learning-for-visual-storytelling-2018.md)
     - [Visual Storytelling, 2016](papers/visual-storytelling-2016.md)
+    - [Visual Relationship Detection with Language Priors,2016](papers/visual-relationship-detection-with-language-priors-2016.md)
 
 
   - 7.Classical Paper
