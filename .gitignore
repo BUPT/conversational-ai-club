@@ -1,3 +1,6 @@
+# Pycharm IDE config
+.idea/
+
 # Logs
 logs
 *.log
