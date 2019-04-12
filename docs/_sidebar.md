@@ -1,4 +1,4 @@
-<!-- docs/_sidebar.md -->
+﻿<!-- docs/_sidebar.md -->
 
 # CONVERSATIONAL AI CLUB
 
@@ -75,6 +75,7 @@
     - [Learning to Compose Topic-Aware Mixture of Experts for Zero-shot Video Captioning](papers/learning-to-compose-topic-aware-mixture-of-experts-for-zero-shot-video-captioning-2018.md)
     - [Scene Text Recognition from Two-Dimensional Perspective, 2019](papers/scene-text-recognition-from-two-dimensional-perspective-2019.md)
     - [Watch, Listen, and Describe: Globally and Locally Aligned Cross-Modal Attentions for Video Captioning, 2018](papers/watch-listen-and-describe-globally-and-locally-aligned-cross-modal-attentions-for-video-captioning-2018.md)
+    - [E2E-MLT-an Unconstrained End-to-End Method for Multi-Language Scene Text, 2018](papers/e2e-mlt-an-unconstrained-end-to-end-method-for-multi-language-scene-text-2018.md)
 
 
   - 7.Classical Paper
