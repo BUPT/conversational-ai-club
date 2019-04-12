@@ -108,6 +108,7 @@
 
   - 9.Knowledge Graph
     - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks, 2018](papers/graph2seq-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
+    - [Natural Language Processing for Information Extraction, 2018](papers/natural-language-processing-for-information-extraction-2018.md)
 
   - 10.AutoEncoder
     - [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](papers/beta-vae-learning-basic-visual-concepts-with-a-constrained-variational-framework.md)
@@ -124,3 +125,4 @@
 
   - 14.Recommand System
     - [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems, 2018](papers/xdeepfm-combining-explicit-and-implicit-feature-interactions-for-recommander-system-2018.md)
+
