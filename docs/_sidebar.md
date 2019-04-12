@@ -74,6 +74,7 @@
     - [Visual Relationship Detection with Language Priors, 2016](papers/visual-relationship-detection-with-language-priors-2016.md)
     - [Learning to Compose Topic-Aware Mixture of Experts for Zero-shot Video Captioning](papers/learning-to-compose-topic-aware-mixture-of-experts-for-zero-shot-video-captioning-2018.md)
     - [Scene Text Recognition from Two-Dimensional Perspective, 2019](papers/scene-text-recognition-from-two-dimensional-perspective-2019.md)
+    - [Watch, Listen, and Describe: Globally and Locally Aligned Cross-Modal Attentions for Video Captioning, 2018](papers/watch-listen-and-describe-globally-and-locally-aligned-cross-modal-attentions-for-video-captioning-2018.md)
 
 
   - 7.Classical Paper
