@@ -1,4 +1,4 @@
-<!-- docs/_sidebar.md -->
+﻿<!-- docs/_sidebar.md -->
 
 # CONVERSATIONAL AI CLUB
 
@@ -75,8 +75,10 @@
     - [Learning to Compose Topic-Aware Mixture of Experts for Zero-shot Video Captioning](papers/learning-to-compose-topic-aware-mixture-of-experts-for-zero-shot-video-captioning-2018.md)
     - [Scene Text Recognition from Two-Dimensional Perspective, 2019](papers/scene-text-recognition-from-two-dimensional-perspective-2019.md)
     - [Watch, Listen, and Describe: Globally and Locally Aligned Cross-Modal Attentions for Video Captioning, 2018](papers/watch-listen-and-describe-globally-and-locally-aligned-cross-modal-attentions-for-video-captioning-2018.md)
-  
-  
+    - [E2E-MLT-an Unconstrained End-to-End Method for Multi-Language Scene Text, 2018](papers/e2e-mlt-an-unconstrained-end-to-end-method-for-multi-language-scene-text-2018.md)
+    - [Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation](papers/reinforced-cross-modal-matching-and-self-supervised-imitation-learning-for-vision-language-navigation-2018.md)
+
+
   - 7.Classical Paper
     - [The Viterbi Algorithm,1973](papers/the-viterbi-algorithm-1973.md)
     - [Attention Is All You Need,2017](papers/attention-is-all-you-need-2017.md)
@@ -107,6 +109,7 @@
 
   - 9.Knowledge Graph
     - [Graph2Seq: Graph to Sequence Learning with Attention-Based Neural Networks, 2018](papers/graph2seq-graph-to-sequence-learning-with-attention-based-neural-networks-2018.md)
+    - [Natural Language Processing for Information Extraction, 2018](papers/natural-language-processing-for-information-extraction-2018.md)
 
   - 10.AutoEncoder
     - [beta-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework](papers/beta-vae-learning-basic-visual-concepts-with-a-constrained-variational-framework.md)
@@ -120,6 +123,8 @@
 
   - 13.Few-shot Learning
     - [Learning to Compare: Relation Network for Few-Shot Learning](papers/learning-to-compare-relation-network-for-few-shot-learning-2018.md)
+      [Low shot Learning via Covariance Preserving Adversarial Augmentation Networks](papers/low-shot-learning-via-covariance-preserving-adversarial-augmentation-networks-2018.md)
 
   - 14.Recommand System
     - [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems, 2018](papers/xdeepfm-combining-explicit-and-implicit-feature-interactions-for-recommander-system-2018.md)
+
