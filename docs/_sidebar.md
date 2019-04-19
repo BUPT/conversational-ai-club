@@ -95,7 +95,8 @@
     - [On Learning to Think,2015](papers/on-learning-to-think-2015.md)
     - [An overview of gradient descent optimization algorithms,2016](papers/overview-of-gradient-descent-optimization-algorithms-2016.md)
     - [The Consciousness Prior,2017](papers/the-consciousness-prior-2017.md)
-    - [Attention and Augmented Recurrent Neural Networks](attention-and-augmented-recurrent-neural-networks-2016.md)
+    - [Attention and Augmented Recurrent Neural Networks](papers/attention-and-augmented-recurrent-neural-networks-2016.md)
+    - [Neural Turing Machines](papers/neural-turing-machines-2014.md)
 
   - 8.Embedding Technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
