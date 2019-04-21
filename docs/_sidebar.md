@@ -76,6 +76,8 @@
     - [Scene Text Recognition from Two-Dimensional Perspective, 2019](papers/scene-text-recognition-from-two-dimensional-perspective-2019.md)
     - [Watch, Listen, and Describe: Globally and Locally Aligned Cross-Modal Attentions for Video Captioning, 2018](papers/watch-listen-and-describe-globally-and-locally-aligned-cross-modal-attentions-for-video-captioning-2018.md)
     - [E2E-MLT-an Unconstrained End-to-End Method for Multi-Language Scene Text, 2018](papers/e2e-mlt-an-unconstrained-end-to-end-method-for-multi-language-scene-text-2018.md)
+    - [Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation](papers/reinforced-cross-modal-matching-and-self-supervised-imitation-learning-for-vision-language-navigation-2018.md)
+    - [IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection,2018](papers/inceptext-a-new-inception-text-module-with-deformable-psroi-pooling-for-multi-oriented-scene-text-detection-2018.md)
 
 
   - 7.Classical Paper
@@ -94,7 +96,8 @@
     - [On Learning to Think,2015](papers/on-learning-to-think-2015.md)
     - [An overview of gradient descent optimization algorithms,2016](papers/overview-of-gradient-descent-optimization-algorithms-2016.md)
     - [The Consciousness Prior,2017](papers/the-consciousness-prior-2017.md)
-    - [Attention and Augmented Recurrent Neural Networks](attention-and-augmented-recurrent-neural-networks-2016.md)
+    - [Attention and Augmented Recurrent Neural Networks](papers/attention-and-augmented-recurrent-neural-networks-2016.md)
+    - [Neural Turing Machines](papers/neural-turing-machines-2014.md)
 
   - 8.Embedding Technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
@@ -123,6 +126,7 @@
 
   - 13.Few-shot Learning
     - [Learning to Compare: Relation Network for Few-Shot Learning](papers/learning-to-compare-relation-network-for-few-shot-learning-2018.md)
+      [Low shot Learning via Covariance Preserving Adversarial Augmentation Networks](papers/low-shot-learning-via-covariance-preserving-adversarial-augmentation-networks-2018.md)
 
   - 14.Recommand System
     - [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems, 2018](papers/xdeepfm-combining-explicit-and-implicit-feature-interactions-for-recommander-system-2018.md)
