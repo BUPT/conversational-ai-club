@@ -98,6 +98,7 @@
     - [The Consciousness Prior,2017](papers/the-consciousness-prior-2017.md)
     - [Attention and Augmented Recurrent Neural Networks](papers/attention-and-augmented-recurrent-neural-networks-2016.md)
     - [Neural Turing Machines](papers/neural-turing-machines-2014.md)
+    - [Hybrid computing using a neural network with dynamic external memory, 2016](papers/hybrid-computing-using-a-neural-network-with-dynamic-external-memory-2016.md)
 
   - 8.Embedding Technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
