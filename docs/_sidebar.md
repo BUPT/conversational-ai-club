@@ -99,6 +99,7 @@
     - [Attention and Augmented Recurrent Neural Networks](papers/attention-and-augmented-recurrent-neural-networks-2016.md)
     - [Neural Turing Machines](papers/neural-turing-machines-2014.md)
     - [Hybrid computing using a neural network with dynamic external memory, 2016](papers/hybrid-computing-using-a-neural-network-with-dynamic-external-memory-2016.md)
+    - [Scheduled Sampling for Sequence Prediction with Recurrent Neural Networks, 2015](papers/scheduled-sampling-for-sequence-prediction-with-recurrent-neural-networks-2015.md)
 
   - 8.Embedding Technique
     - [ELMo: Deep contextualized word representations,2018](papers/elmo-deep-contextualized-word-representations-2017.md)
