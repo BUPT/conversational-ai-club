@@ -128,12 +128,11 @@
 
   - 13.Few-shot Learning
     - [Learning to Compare: Relation Network for Few-Shot Learning](papers/learning-to-compare-relation-network-for-few-shot-learning-2018.md)
-      [Low shot Learning via Covariance Preserving Adversarial Augmentation Networks](papers/low-shot-learning-via-covariance-preserving-adversarial-augmentation-networks-2018.md)
+    - [Low shot Learning via Covariance Preserving Adversarial Augmentation Networks](papers/low-shot-learning-via-covariance-preserving-adversarial-augmentation-networks-2018.md)
+    - [Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation](papers/googles-multilingual-neural-machine-translation-system-enabling-zero-shot-translation.md)
 
   - 14.Recommand System
     - [xDeepFM: Combining Explicit and Implicit Feature Interactions for Recommender Systems, 2018](papers/xdeepfm-combining-explicit-and-implicit-feature-interactions-for-recommander-system-2018.md)
 
   - 15.Traditional Image Feature Extract
     - [Histograms of Oriented Gradients for Human Detection](papers/histograms-of-oriented-gradients-for-human-detection-2005.md)
-
-
