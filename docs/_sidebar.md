@@ -137,3 +137,6 @@
 
   - 15.Traditional Image Feature Extract
     - [Histograms of Oriented Gradients for Human Detection](papers/histograms-of-oriented-gradients-for-human-detection-2005.md)
+
+  - 16.Semantic Segmentation
+    - [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation, 2016](papers/3d-u-net-2016.md)
