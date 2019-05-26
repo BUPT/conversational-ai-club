@@ -79,6 +79,7 @@
     - [Reinforced Cross-Modal Matching and Self-Supervised Imitation Learning for Vision-Language Navigation](papers/reinforced-cross-modal-matching-and-self-supervised-imitation-learning-for-vision-language-navigation-2018.md)
     - [IncepText: A New Inception-Text Module with Deformable PSROI Pooling for Multi-Oriented Scene Text Detection,2018](papers/inceptext-a-new-inception-text-module-with-deformable-psroi-pooling-for-multi-oriented-scene-text-detection-2018.md)
     - [Online Scheduled Hard Example Selection for Visual Storytelling, 2019](papers/online-scheduled-hard-example-selection-for-visual-storytelling.md)
+    - [Detecting Curve Text in the Wild: New Dataset and New Solution](papers//detecting-curve-text-in-the-wild-new-dataset-and-new-solution-2017.md)
 
 
   - 7.Classical Paper
