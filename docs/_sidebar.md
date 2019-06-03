@@ -140,6 +140,7 @@
 
   - 16.Semantic Segmentation
     - [3D U-Net: Learning Dense Volumetric Segmentation from Sparse Annotation, 2016](papers/3d-u-net-2016.md)
-  
+    - [Brief introduction to  FCN Network and Unet Network](papers/brief-introduction-to-fcn-network-and-unet-network.md)
+
   - 17.Deep Learning for Biology
     - [A^2-Net: Molecular Structure Estimation from Cryo-EM Density Volumes, 2019](papers/a-square-net-molecular-structure-estimation-from-cryo-em-density-volumes.md)
