@@ -4,6 +4,14 @@
 
 Paper list based on `docsify`
 
+## NOTICE: THIS REPO HAD BEEN ARCHIVED
+
+All the papers had been moved to <https://ai-ml.club/papers/>
+
+Please visite <https://ai-ml.club/papers/> for more information.
+
+## THE INFORMATION BELOW IS OUTDATED
+
 ## Home Page
 
 <https://bupt.github.io/conversational-ai-club>
