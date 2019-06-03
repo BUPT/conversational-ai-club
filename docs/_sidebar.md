@@ -145,3 +145,4 @@
   
   - 17.Deep Learning for Biology
     - [A^2-Net: Molecular Structure Estimation from Cryo-EM Density Volumes, 2019](papers/a-square-net-molecular-structure-estimation-from-cryo-em-density-volumes.md)
+    - [Secondary Structure Elements 3D Segmentation for Protein](papers/secondary-structure-elements-3d-segmentation-for-protein-2019)
